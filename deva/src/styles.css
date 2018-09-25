@@ -1,0 +1,287 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+html, body { height: 100%;margin: 0px; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.container-fluid{
+    width:100%;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.background-img{
+    width: 100%;
+}
+.hed1{
+    width: 50%;
+}
+.hed2{
+    width: 50%;
+}
+.col-md-12.content {
+    margin-bottom: 20px;
+}
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 70px;
+    margin-top: 40px;
+    color: white;
+    width: 60%;
+    padding: 10px;
+    font-size: 50PX;
+    font-family: initial;
+    margin-bottom: 35px;
+}
+span.wh1 {
+    color: white;
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-bar {
+    display: contents;
+}
+.comp-name{
+    color: white;
+ 
+}
+.img {
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin-left: auto;
+            margin-right: auto;
+}
+.mat-card.mat-card {
+    height: 340px;
+    margin-bottom: 20px;
+}
+
+.col-md-3.content1 {
+    width: 15%;
+    /* height: 54px; */
+}
+
+.col-md-12 {
+    padding: 0px;
+    margin: 0px;
+}
+.carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 140px;
+}
+.row {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin-left: 50px;
+   height: 305px;
+}
+#p.card1{
+    background-image: url('./assets/Images/lab1.jpg')
+}
+.card2{
+    background-image: url('./assets/Images/lab2.jpg')
+}
+.card3{
+    background-image: url('./assets/Images/lab3.jpg')
+}
+mat-card img{
+    object-fit: cover; /*this makes de image in src fit to the size of specified below*/
+    width: 100%; /* Here you can use wherever you want to specify the width and also the height of the <img>*/
+    height: 40%;
+  }
+  p {
+    font-family: open sans-serif;
+    font-size: 14px;
+}
+
+    .p1 {
+        text-align: center;
+        margin: auto;
+        width: 60%;
+        padding: 10px;
+        font-size: 20PX;
+        font-family: inherit;
+        font-variant: inherit;
+    }
+.head-content {
+    width: 100%;
+    margin-top: 30px;
+    color: white;
+    }
+.card-img-top {
+    background-image: url(./assets/Images/bg.PNG);
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    height: 160px;
+    margin-bottom: 20px;
+    color: white;
+    font-variant: all-small-caps;
+    /* font-size: 25px; */
+}
+#background-img{
+    background-image: url('./assets/Images/s2.jpg ');
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    height: 450px;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+}
+button.mat-raised-button.mat-primary {
+    border-radius: 20px;
+}
+
+.carousel-inner.test {
+    height: 150px;
+}
+
+.carousel-inner {
+    position: inherit;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+}
+h2{
+    text-align:center;
+    padding: 20px;
+  }
+  /* Slider */
+  
+  .slick-slide {
+      margin: 0px 20px;
+  }
+  
+  .slick-slide img {
+      width: 100%;
+  }
+  
+  .slick-slider
+  {
+      position: relative;
+      display: block;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+              user-select: none;
+      -webkit-touch-callout: none;
+      -khtml-user-select: none;
+      -ms-touch-action: pan-y;
+          touch-action: pan-y;
+      -webkit-tap-highlight-color: transparent;
+  }
+  
+  .slick-list
+  {
+      position: relative;
+      display: block;
+      overflow: hidden;
+      margin: 0;
+      padding: 0;
+  }
+  .slick-list:focus
+  {
+      outline: none;
+  }
+  .slick-list.dragging
+  {
+      cursor: pointer;
+      cursor: hand;
+  }
+  
+  .slick-slider .slick-track,
+  .slick-slider .slick-list
+  {
+      -webkit-transform: translate3d(0, 0, 0);
+         -moz-transform: translate3d(0, 0, 0);
+          -ms-transform: translate3d(0, 0, 0);
+           -o-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+  }
+  
+  .slick-track
+  {
+      position: relative;
+      top: 0;
+      left: 0;
+      display: block;
+  }
+  .slick-track:before,
+  .slick-track:after
+  {
+      display: table;
+      content: '';
+  }
+  .slick-track:after
+  {
+      clear: both;
+  }
+  .slick-loading .slick-track
+  {
+      visibility: hidden;
+  }
+  
+  .slick-slide
+  {
+      display: none;
+      float: left;
+      height: 100%;
+      min-height: 1px;
+  }
+  [dir='rtl'] .slick-slide
+  {
+      float: right;
+  }
+  .slick-slide img
+  {
+      display: block;
+  }
+  .slick-slide.slick-loading img
+  {
+      display: none;
+  }
+  .slick-slide.dragging img
+  {
+      pointer-events: none;
+  }
+  .slick-initialized .slick-slide
+  {
+      display: block;
+  }
+  .slick-loading .slick-slide
+  {
+      visibility: hidden;
+  }
+  .slick-vertical .slick-slide
+  {
+      display: block;
+      height: auto;
+      border: 1px solid transparent;
+  }
+  .slick-arrow.slick-hidden {
+      display: none;
+  }
+  .back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+footer{background-color: #eee; padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;}
+
+       ul, li{list-style-type: none;}
+       .list{margin-top: 15px;}
+       span.badge {
+        color: white;
+        background-color: lightgreen;
+        margin-left: 5px;
+    }

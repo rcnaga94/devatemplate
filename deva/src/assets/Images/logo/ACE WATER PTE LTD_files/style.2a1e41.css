@@ -1,0 +1,8923 @@
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.t8PKtn_qzad1Ef7pONfN6 {
+  display: inline-block;
+}
+.fbh28d0pkU7oYUSfofkp8 {
+  width: 16px;
+  height: 16px;
+  fill: #bdbdbd;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2ISBGM5gBF6OtvH__FPP1k {
+    overflow: hidden;
+}
+._90Pd6TSqwwQGq2LoESPt0 {
+    z-index: 25;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .75);
+    cursor: pointer;
+}
+._2jZZoJf_4X6SvTUpd3KosT {
+    position: relative;
+    background: #fff;
+    width: 100%;
+    margin: 20px;
+    min-width: 320px;
+    max-width: 450px;
+    padding: 20px 30px;
+    overflow:auto;
+    cursor:default;
+}
+._2xzLZyde1-m1cOmrlsYONg {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+._3F48Fbh-BPcqqa34yxs5aJ {
+    fill: #9d9d9d;
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+:root {
+}
+._3TT5S1uwz0HXCFs68LdLu8 {
+}
+@media(min-width: 769px) {
+    ._3TT5S1uwz0HXCFs68LdLu8 {
+        -ms-flex: 1 1  auto;
+            flex: 1 1  auto;
+        display: -ms-flexbox;
+        display: flex;
+        min-width: 530px;
+        max-width: 680px;
+        width: 100%;
+        padding: 0
+    }
+    }
+._27rNgPsgznBiXfuj-8FVih {
+    line-height: 50px;
+    display: block
+}
+@media (max-width: 990px) {
+    ._27rNgPsgznBiXfuj-8FVih {
+        padding: 0 10px
+    }
+    }
+@media (min-width: 769px) {
+    ._27rNgPsgznBiXfuj-8FVih {
+        display: inline-block;
+        line-height: 50px;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        color: #fff
+    }
+    ._27rNgPsgznBiXfuj-8FVih:hover,
+        ._27rNgPsgznBiXfuj-8FVih:focus {
+        color: #F5F5F7
+    }
+    }
+._2KJmX8VGZGbugRr7IOH4GH {
+    font-weight: 600;
+}
+._3XXA79kw5WIfcT5KtuU8hn {
+    display:none
+}
+@media(min-width: 769px) {
+    ._3XXA79kw5WIfcT5KtuU8hn {
+        display: inline-block
+    }
+    }
+.RjdIxlb4sGn0-WrKbmwMu {
+    position: relative;
+    top: 2px;
+    margin-right: 5px
+}
+@media(min-width: 769px) {
+    .RjdIxlb4sGn0-WrKbmwMu {
+}
+    .RjdIxlb4sGn0-WrKbmwMu svg {
+        fill: #fff
+    }
+    }
+._3TZeBjE6XdZGUoe9zdyCKl {
+}
+@media(min-width: 769px) {
+    ._3TZeBjE6XdZGUoe9zdyCKl {
+        -ms-flex: 1 0 auto;
+            flex: 1 0 auto;
+        display: inline-block;
+        position: relative
+    }
+    }
+._2QPqtdA2rSQB4tI-x3KXdw {
+}
+._2QPqtdA2rSQB4tI-x3KXdw ._27rNgPsgznBiXfuj-8FVih {
+}
+._2QPqtdA2rSQB4tI-x3KXdw ._27rNgPsgznBiXfuj-8FVih:after {
+    display: inline-block;
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 4px 4px 0 4px;
+    border-color: transparent;
+    border-top-color: #1c3f94;
+    position: relative;
+    top: -3px;
+    left: 6px
+}
+@media(min-width: 769px) {
+    ._2QPqtdA2rSQB4tI-x3KXdw ._27rNgPsgznBiXfuj-8FVih:after {
+        border-top-color: #fff
+    }
+}
+._2QPqtdA2rSQB4tI-x3KXdw ._27rNgPsgznBiXfuj-8FVih:hover:after {
+    border-top-color: #142d69
+}
+@media(min-width: 769px) {
+    ._2QPqtdA2rSQB4tI-x3KXdw ._27rNgPsgznBiXfuj-8FVih:hover:after {
+        border-top-color: #f7f7f7
+    }
+}
+._2nO-tuh5EHZ3u0Npfs6Wel {
+}
+@media(min-width: 769px) {
+    ._2nO-tuh5EHZ3u0Npfs6Wel {
+        background: #142d69
+    }
+    ._2nO-tuh5EHZ3u0Npfs6Wel ._27rNgPsgznBiXfuj-8FVih:after {
+        border-top-color: #f7f7f7
+    }
+    }
+._2nO-tuh5EHZ3u0Npfs6Wel ._3GU4zg1Niic0RJzpxiFYtB {
+    display: block
+}
+._3GU4zg1Niic0RJzpxiFYtB {
+    display: none
+}
+@media(min-width: 769px) {
+    ._3GU4zg1Niic0RJzpxiFYtB {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        min-width: 160px;
+        padding: 5px 0;
+        background: #fff;
+        border: 1px solid #F5F5F7;
+        border-radius: 0 0 3px 3px;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, .175)
+    }
+    }
+._1AUBxnl3pfu-g6ncjlpywp {
+
+    line-height: 36px
+}
+@media(min-width: 769px) {
+    ._1AUBxnl3pfu-g6ncjlpywp {
+        display: block;
+        padding: 0 20px;
+        color: #9d9d9d
+    }
+    ._1AUBxnl3pfu-g6ncjlpywp:hover,
+        ._1AUBxnl3pfu-g6ncjlpywp:focus {
+        color: #333;
+        background: #f7f7f7
+    }
+
+    }
+/*
+    Right aligned is used for the user navigation menu on the right hand side
+*/
+.GfHzCfMpViLB8eLmE95f0 {
+    padding: 0 20px 10px 0
+}
+@media(min-width: 769px) {
+    .GfHzCfMpViLB8eLmE95f0 {
+        width: auto;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+        min-width: 0
+    }
+    }
+.GfHzCfMpViLB8eLmE95f0 ._1AUBxnl3pfu-g6ncjlpywp {
+    padding-left: 20px
+}
+.GfHzCfMpViLB8eLmE95f0 ._2nO-tuh5EHZ3u0Npfs6Wel {
+}
+.GfHzCfMpViLB8eLmE95f0 ._2nO-tuh5EHZ3u0Npfs6Wel ._27rNgPsgznBiXfuj-8FVih:after {
+    border-top-color: #757575
+}
+.GfHzCfMpViLB8eLmE95f0 ._2nO-tuh5EHZ3u0Npfs6Wel ._3GU4zg1Niic0RJzpxiFYtB {
+    display: block
+}
+@media(min-width: 769px) {
+    .GfHzCfMpViLB8eLmE95f0 {
+        padding: 0
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._27rNgPsgznBiXfuj-8FVih {
+        padding: 0 15px
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._2nO-tuh5EHZ3u0Npfs6Wel {
+        background: #142d69
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._2nO-tuh5EHZ3u0Npfs6Wel ._27rNgPsgznBiXfuj-8FVih:after {
+        border-top-color: #f7f7f7
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._3TZeBjE6XdZGUoe9zdyCKl {
+        position: relative
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._3TZeBjE6XdZGUoe9zdyCKl:after {
+        position: absolute;
+        content: '';
+        width: 1px;
+        height: 25%;
+        top: 37%;
+        right: 0;
+        background: #fff;
+        display: block
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._3TZeBjE6XdZGUoe9zdyCKl:last-child {
+}
+    .GfHzCfMpViLB8eLmE95f0 ._3TZeBjE6XdZGUoe9zdyCKl:last-child:after {
+        display: none
+    }
+    .GfHzCfMpViLB8eLmE95f0 ._3GU4zg1Niic0RJzpxiFYtB {
+        right: 0;
+        left: auto
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1Q2dkQnkPswwQOSOWvj9DU {
+    padding: 10px 0
+}
+@media(min-width: 769px) {
+    ._1Q2dkQnkPswwQOSOWvj9DU {
+        padding-left: 40px;
+        padding-right: 40px
+    }
+    }
+._2rmq32K0sjTpJeGb0BgLZU {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height:3.2rem;
+}
+._3NzWpXb0K391nh5uA8VJwR {
+    margin-bottom:20px;
+}
+._3TV_BgFvXQnNE_R5Ner9t8 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    width: 100%;
+    font-weight: 600;
+    margin-bottom:10px;
+}
+@media(min-width: 769px) {
+    ._3TV_BgFvXQnNE_R5Ner9t8 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._3TV_BgFvXQnNE_R5Ner9t8:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._3TV_BgFvXQnNE_R5Ner9t8:focus,
+        ._3TV_BgFvXQnNE_R5Ner9t8:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._3HZ2SjZzzTN-cOq2GITjTB {
+    margin-right: 5px;
+    top: 3px;
+    position: relative;
+}
+._2K0ygEwpE3UB6miVnFjyM0 {
+    fill: #fff;
+}
+._1qj_j0SbebPMBd2WiTa1sc{
+    font-size: 1.2rem;
+    display:block;
+    margin-bottom:10px;
+}
+.plLhgSjKbFF6PQfS49Wwy {
+    font-size: 1.6rem;
+    text-align:center;
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom:20px;
+    line-height:1.9rem
+}
+.plLhgSjKbFF6PQfS49Wwy:before,
+    .plLhgSjKbFF6PQfS49Wwy:after {
+    z-index: 2;
+    content: '';
+    display: block;
+    position: absolute;
+    height: 1px;
+    width: 40%;
+    top: 10px;
+    background: #9d9d9d
+}
+.plLhgSjKbFF6PQfS49Wwy:after {
+    right: 0
+}
+._2lOwmFZtR47LO34pFaBW81 {}
+._2xn3ogY2TIuGl89HAWc5Pi {}
+._1LIHebRffFo_pGtPtdMNxc {
+    height: 60px;
+}
+._1qwPONHC2nl8tAKkEHU_oK {
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 1.4rem;
+    background: #fff;
+    color: #333;
+    overflow: hidden;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    display:block;
+    height: 30px;
+    border: 1px solid #dddddd;
+    width: 100%;
+    padding-left:20px;
+    padding-right:20px;
+}
+._1qwPONHC2nl8tAKkEHU_oK:focus {
+    border-color: #12688c
+}
+._1qwPONHC2nl8tAKkEHU_oK:placeholder {
+    color: #333
+}
+.ejFO8KCL-5-XrtN7nuWQS {
+    border-color: #EF645F;
+    color: #EF645F;
+}
+._3k3AY3W3w8otcwTn1uKrVG {
+    color: #EF645F;
+    line-height:2.2rem;
+    font-size: 1.2rem;
+}
+.d2ryOxUEnBu-tNcrOD5O5 {
+    display:-ms-flexbox;
+    display:flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    margin-bottom: 5px;
+}
+._2ed35ZJlO9bKWT7h249iZ1 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    line-height:2rem;
+}
+._1iHtUY17B7V-cUwN-Y4D_1 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    color: #333;
+    background-color: #fff200;
+    display: block;
+    width: 100%;
+}
+@media(min-width: 769px) {
+    ._1iHtUY17B7V-cUwN-Y4D_1 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._1iHtUY17B7V-cUwN-Y4D_1:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._1iHtUY17B7V-cUwN-Y4D_1:focus,
+        ._1iHtUY17B7V-cUwN-Y4D_1:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._1iHtUY17B7V-cUwN-Y4D_1:focus,
+        ._1iHtUY17B7V-cUwN-Y4D_1:hover,
+        ._1iHtUY17B7V-cUwN-Y4D_1:active {
+    color: #333;
+    background-color: #fff200
+}
+._1IPz5zLgXtOr0mMBB6pSfl {
+    line-height: 4.2rem;
+    text-align: center;
+}
+.U2bNetfXdQkpIbVZi1RRr {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
+._1IPz5zLgXtOr0mMBB6pSfl, .U2bNetfXdQkpIbVZi1RRr {
+}
+._1IPz5zLgXtOr0mMBB6pSfl > span:after,
+    ._1IPz5zLgXtOr0mMBB6pSfl > a:after,
+    .U2bNetfXdQkpIbVZi1RRr > span:after,
+    .U2bNetfXdQkpIbVZi1RRr > a:after {
+    content: ' ';
+    display: inline
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+:root {
+}
+._2DfzOMSnGdm-o6AHokgECc {
+    background: #fff;
+    position: relative;
+    z-index: 10;
+}
+._39K-6YvYV0Wcp0BE7eZGJ_ {
+    border-bottom: 1px solid #dddddd
+}
+@media(min-width: 769px) {
+    ._39K-6YvYV0Wcp0BE7eZGJ_ {
+        background: #fff;
+    }
+    }
+.pWDCdP-bP6N8aWxNIY5db {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+._1XBV-CUrF6uqRmyODORiqV {
+    height: 50px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-wrap:wrap;
+        flex-wrap:wrap;
+    -ms-flex-align: center;
+        align-items: center
+}
+@media(min-width: 769px) {
+    ._1XBV-CUrF6uqRmyODORiqV {
+        height: 58px;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    }
+    }
+.nndJB-z-ap_bOoq0KU-PE {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%
+}
+@media(min-width: 769px) {
+    .nndJB-z-ap_bOoq0KU-PE {
+        position: static;
+        width: 100%;
+    }
+    }
+._3lMiqjRlEkJB3XETm2IaKi {
+    zoom:1.4;
+    -moz-transform: scale(1.4)
+    }
+@media(max-width: 768px) {
+    ._3lMiqjRlEkJB3XETm2IaKi {
+        content: url("//dna.jsstatic.com/img/jobstreet.svg");
+    }
+        }
+._2BFGHbLgGlmo_zoRP8i6Ml {
+    zoom:1.4;
+    -moz-transform: scale(1.4);
+}
+._1ZOWtSQ32oz3p2DapvjAkd {
+    display: none;
+    color: #298eb9
+}
+._1ZOWtSQ32oz3p2DapvjAkd:hover,
+    ._1ZOWtSQ32oz3p2DapvjAkd:focus {
+    color: #79C8EC;
+    text-decoration: underline;
+}
+@media(min-width: 769px) {
+    ._1ZOWtSQ32oz3p2DapvjAkd {
+        display: inline-block;
+        font-weight: 600;
+    }
+    }
+._36_1uzA758aHJ5DyEUqXoN {
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 10;
+    padding:0;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background: none;
+    cursor: pointer
+}
+@media(min-width: 769px) {
+    ._36_1uzA758aHJ5DyEUqXoN {
+        display: none;
+    }
+    }
+._1H7tA_zMIs7m9IVTIVDGa6 {
+}
+@media(min-width: 769px) {
+    ._1H7tA_zMIs7m9IVTIVDGa6 {
+        background: #1c3f94;
+    }
+    }
+._2XAKEY0cPgglnMh9GYZOAl {
+    max-width: 1024px;
+    margin: 0 auto;
+    overflow:hidden;
+    padding-top: 50px;
+    transition: max-height 125ms ease-out;
+    max-height:1000px
+}
+@media(min-width: 769px) {
+    ._2XAKEY0cPgglnMh9GYZOAl {
+        height: 50px;
+        overflow: visible;
+        padding-top: 0;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        -ms-flex-align: center;
+            align-items: center;
+        transition: none;
+    }
+    }
+._1s9f6GOVm-LHWVoYLRAWjB {
+    max-height: 0
+}
+@media(min-width: 769px) {
+    ._1s9f6GOVm-LHWVoYLRAWjB {
+        max-height: 50px;
+    }
+    }
+.UR-NyBvWmv5pxS1D_ch8N {
+    max-width: 570px;
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.yiD5nRH3mEMfB1EGUmzic {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+    margin-bottom: 20px;
+    margin-top: 45px
+}
+@media(min-width: 1025px) {
+    .yiD5nRH3mEMfB1EGUmzic {
+        padding: 0
+    }
+    }
+._2de4MeG4Lunl5G2dXndDlm {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+    padding: 0 10px 15px;
+    border-bottom: 1px solid #F5F5F7;
+}
+._2VRUlIXalr-XGoZ9FaRXp- {
+}
+._2VRUlIXalr-XGoZ9FaRXp-:after {
+    font-size: 17.6px;
+    font-size: 1.1rem;
+    content: '|';
+    display: inline-block;
+    color: #999
+}
+._2VRUlIXalr-XGoZ9FaRXp-:last-child:after {
+    display: none
+}
+._3ozeSGWzx4Vdsbe2wDSFbW {
+    display: inline-block;
+    padding: 0 10px 10px;
+}
+._3tcMEAmzscCjXV8zpFiDkg {
+    color: #757575;
+    font-size: 1.2rem;
+    padding: 10px 0 0 0;
+    text-align: center;
+    border-top:1px solid #ccc
+}
+@media(min-width: 769px) {
+    ._3tcMEAmzscCjXV8zpFiDkg {
+        text-align: right
+    }
+    }
+@keyframes _1EgOzlTElUokMeTErNY8Xc {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+
+._2QAPqKp1-hPJ81if_7tgIB {
+    animation: _1EgOzlTElUokMeTErNY8Xc 2s infinite linear;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+/* - Internet Explorer 10–11
+   - Internet Explorer Mobile 10-11 */
+:-ms-input-placeholder {
+    color: #333 !important;
+    font-weight: 400 !important;
+}
+/* Edge (also supports ::-webkit-input-placeholder) */
+::-ms-input-placeholder {
+    color: #333;
+    font-weight: 400;
+}
+.oVhA_FUA33bzhFiDsEZRB {
+    height: 100%;
+    position: relative;
+}
+._3hKCFe7z5KpC3EswBrdUxo {
+    width:100%;
+    height:100%;
+}
+._3mel4qiuFvMBBPU_1LsWNb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    position: absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    width: 40px;
+    text-align: center;
+}
+._1063pM0o72wY098M-Gj35P {
+    fill: #1c3f94;
+}
+._2hG73ipLD3rpQHO-7TswfZ {
+    fill: #1c3f94
+}
+@media(min-width: 769px) {
+    ._2hG73ipLD3rpQHO-7TswfZ {
+        zoom: 1.7;
+    }
+    }
+._17DCB-E3gJHAntJF4xouyi { height: 100%; }
+._3XQNyR4M0rlb-zR__KdVhl {
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 1.4rem;
+    background: #fff;
+    color: #333;
+    overflow: hidden;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    padding-left: 40px;
+    height: 100%;
+    font-size: 1.6rem;
+}
+._3XQNyR4M0rlb-zR__KdVhl:focus {
+    border-color: #12688c;
+}
+._3XQNyR4M0rlb-zR__KdVhl:placeholder {
+    color: #333;
+}
+.MngkcV0imm-gWos9oJwd1 {
+    box-shadow: 0 0 23px -3px rgba(0, 0, 0, .4);
+    position: absolute;
+    width: 100%;
+    margin-top: 5px;
+    z-index: 20;
+    overflow-y: auto;
+    background-color: #fff;
+    border-radius: 4px;
+}
+.bM_ymMkF27UV9gsVgzY_H ,
+._2R6hUJnydbK_aiED8LWgki {
+    padding: 10px 10px;
+    cursor: pointer;
+    line-height: 1.8rem
+}
+.bM_ymMkF27UV9gsVgzY_H:hover, ._2R6hUJnydbK_aiED8LWgki:hover {
+    background-color: #f7f7f7;
+}
+._2R6hUJnydbK_aiED8LWgki {
+    background-color: #f7f7f7;
+}
+.RpEGCdaIoeFoiHy20Q6W8 {
+    font-weight: 600;
+}
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+}
+
+input[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+*:focus {
+    outline: none;
+}
+
+strong { font-weight: bold; }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+html {
+    font: 400 62.5%/1.8  "Muli", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+	background-color: #f4f4f4;
+	font-size: 1.4em;
+    min-width: 320px;
+    color: #333;
+}
+a {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    color: #298eb9;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover,
+        a:focus {
+    color: #12688c;
+}
+a:hover,
+a:focus {}
+ol {}
+ul {}
+li {}
+dl {}
+dt {}
+dd {}
+p {}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3GC6sMP8LIGHQlDU0PbXhU {
+}
+._39fJKLGSMp61Syr7WClXLp {
+    padding: 5px 0 3px;
+    background: #fff;
+}
+._1WLLZ07egcoL_4sh-uCpQQ {
+    max-width: 1024px;
+    margin: 0 auto;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+}
+._3hilYxnUJThFLU5UpGBxXb {
+    padding:0;
+    margin:0;
+    display: none;
+    -ms-flex-negative: 0;
+        flex-shrink: 0
+}
+@media (min-width: 769px) {
+    ._3hilYxnUJThFLU5UpGBxXb {
+        display: block;
+    }
+    }
+._2H0RZpyAJcvT7seexkArJQ {
+    padding:0;
+    margin:0;
+    display: inline;
+}
+._2VfvUKmEIApGcfJHpgGK6C {
+    color: #298eb9;
+    display: inline-block;
+    margin: 16px 0 16px 40px;
+}
+._1qc0Fw_1nkW-B_xgqP83U1 {
+    font-weight: 600;
+    color: #12688c;
+}
+.QSotvqchvTnOy8U5ocAm9 {
+    position: relative;
+    margin: 10px;
+    width: 100%;
+    height: 40px
+}
+@media (min-width: 769px) {
+    .QSotvqchvTnOy8U5ocAm9 {
+        width: 32%;
+        max-width: 350px;
+        margin: 0 10px 0 0;
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1_r-0Xw0YsjNng161t6U2M {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    overflow: hidden;
+}
+._1Cy6lcihWpceLLGB3qdmV1 {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    -ms-flex-negative: 0;
+        flex-shrink: 0;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2W1edeIGki1VJ0R80Sw8oB {
+    margin-right: 4px
+}
+._2W1edeIGki1VJ0R80Sw8oB svg {
+    fill: #058b32
+}
+._2W1edeIGki1VJ0R80Sw8oB:last-child {
+    margin-right: 0
+}._33OCeaeRb76TmHeimIUBBI {
+  animation-duration: .3s;
+  animation-name: _3TjZvhMZVFWFi2d0E7w4R9;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes _3TjZvhMZVFWFi2d0E7w4R9 {
+  0% { transform: scale(0.6); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+.HZWzBHIh0nkOscWE4vY95 {
+  position: absolute !important;
+  clip: rect(1px, 1px, 1px, 1px);
+  pointer-events: none;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1KNcRH74asnnEB9uUe_IBQ {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._22M_eoP5fvntxtSUj6qpFj,
+._1MEESv1FQH-eiVYXy5g3Tx {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+}
+._1MEESv1FQH-eiVYXy5g3Tx {
+    -ms-flex-direction: row;
+        flex-direction: row
+}
+._1MEESv1FQH-eiVYXy5g3Tx ._2hiGYSDS2fhXf_efjKGKb3 {
+    -ms-flex: 1 0 auto;
+        flex: 1 0 auto;
+}
+@media(min-width: 769px) {
+    ._1MEESv1FQH-eiVYXy5g3Tx ._2hiGYSDS2fhXf_efjKGKb3 {
+        width: 50%;
+    }
+}
+._1MEESv1FQH-eiVYXy5g3Tx ._2MYdiU39NnB9JabNMOiS6A {
+    -ms-flex: 0 1 auto;
+        flex: 0 1 auto;
+}
+._22M_eoP5fvntxtSUj6qpFj {
+}
+@media(min-width: 769px) {
+    ._22M_eoP5fvntxtSUj6qpFj {
+        line-height: 1.8rem;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    }
+    }
+._2hiGYSDS2fhXf_efjKGKb3 {
+    margin-bottom: 5px
+}
+@media(min-width: 769px) {
+    ._2hiGYSDS2fhXf_efjKGKb3 {
+        width: 100%;
+    }
+    }
+._2MYdiU39NnB9JabNMOiS6A {
+    margin-bottom: 5px;
+    min-width: 110px;
+}
+._25GdBfh05igdS1aVZt7Edp {
+    width: 100%;
+}
+._3cBmSx89No5F1PGSQ3tpq6 {
+    width: 12px;
+    height: 12px;
+}
+.OX0_TZZSlhMhIywgR8jko {
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-right: 5px;
+    padding: 0 5px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._-cd6iFV8EJK-8orLHVdu {
+    display: -ms-flexbox;
+    display: flex;
+}
+._3cjYkGXrnS3C8LqRpI7lNY {
+    display: -ms-flexbox;
+    display: flex;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+._3kfzJUKd1nr1u7lJQofcaD {
+  box-shadow: 0 0 23px -3px rgba(0, 0, 0, .4);
+  position: absolute;
+  z-index: 15;
+  background: white;
+  min-width: 180px;
+  padding: 20px 20px 0 20px
+}
+._3kfzJUKd1nr1u7lJQofcaD:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    margin: 0 0 -10px -5px;
+    bottom: 100%;
+    left: 65%;
+    box-sizing: border-box;
+    border: 10px solid #fff;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform-origin: 100% 0;
+    transform: rotate(-45deg);
+    box-shadow: 3px -3px 6px -1px rgba(0, 0, 0, .1);
+}
+._1TieXKnVNQtna2xI3yWOu- {
+    width: 20px;
+    height: 20px;
+    fill: #298eb9;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._12QV9aTEAi9_Td70kh3a_t {
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 1.4rem;
+    background: #fff;
+    color: #333;
+    overflow: hidden;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    height: 35px;
+    padding: 0;
+    text-indent: 12px;
+    border: 1px solid #9d9d9d;
+    font-size: 1.6rem;
+}
+._12QV9aTEAi9_Td70kh3a_t:focus {
+    border-color: #12688c;
+}
+._12QV9aTEAi9_Td70kh3a_t:placeholder {
+    color: #333;
+}
+._37PUOKVff1nPiXqaIXWqfm {
+    color: #EF645F;
+    margin: 5px 0;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3ftmH1VuMjUMjZM6sJx8iv {
+}
+._3qNDnP6IY3wE77k_riWNJp {
+    overflow: hidden;
+}
+._3kjibosq_MVLVS2-i2HPvg {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    color: #298eb9;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1.4rem;
+    cursor: pointer;
+    border:none;
+    background:none;
+    padding:0;
+    margin: 10px 0 0 0;
+    display: inline-block
+}
+._3kjibosq_MVLVS2-i2HPvg:hover,
+        ._3kjibosq_MVLVS2-i2HPvg:focus {
+    color: #12688c;
+}
+._3kjibosq_MVLVS2-i2HPvg:hover,
+    ._3kjibosq_MVLVS2-i2HPvg:active,
+    ._3kjibosq_MVLVS2-i2HPvg:focus {
+}
+._3kjibosq_MVLVS2-i2HPvg:hover ._3v22I9yJcYrJDSM1RrP6_7, ._3kjibosq_MVLVS2-i2HPvg:active ._3v22I9yJcYrJDSM1RrP6_7, ._3kjibosq_MVLVS2-i2HPvg:focus ._3v22I9yJcYrJDSM1RrP6_7 {
+    fill: #12688c;
+}
+._3v22I9yJcYrJDSM1RrP6_7 {
+    width: 20px;
+    height: 20px;
+    position:relative;
+    top: 7px;
+    fill: #298eb9;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.JDXL-7cA77-w1yro4f6-3 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    text-align: center
+}
+@media(min-width: 769px) {
+    .JDXL-7cA77-w1yro4f6-3 {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        text-align: left
+    }
+    }
+._2Eqy3EI8lb8mwnMs89Bkzf {
+        margin-bottom: 15px
+    }
+@media(min-width: 769px) {
+    ._2Eqy3EI8lb8mwnMs89Bkzf {
+        margin-bottom: 0;
+        margin-right: 15px
+    }
+        }
+._3WHK898S2NlP9kEEWS6eSI {
+        line-height: 1.6rem;
+    }
+._2N4PqnlVAzHqUH2g5yZLn5,
+        ._2ZTGINIXIWgBLsumEwm3bq {
+            font-size: 1.4rem;
+        }
+._2ZTGINIXIWgBLsumEwm3bq {
+            font-weight: 600;
+            text-transform: capitalize;
+        }
+._2N4PqnlVAzHqUH2g5yZLn5 {
+
+        }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1dQo8rdSVuHCZWHzT6Ceni,
+._3Y961Q5RKApy6FsXD-WEqq {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 10px
+}
+@media(min-width: 769px) {
+    ._1dQo8rdSVuHCZWHzT6Ceni,
+._3Y961Q5RKApy6FsXD-WEqq {
+        border-bottom: 1px solid #dddddd
+    }
+    }
+._1dQo8rdSVuHCZWHzT6Ceni {
+    background-color: #fff
+}
+@media(min-width: 769px) {
+    ._1dQo8rdSVuHCZWHzT6Ceni {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+            flex-direction: column;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid #dddddd
+    }
+    ._1dQo8rdSVuHCZWHzT6Ceni:nth-child(odd) {
+        margin-right: 15px
+    }
+    }
+._38vs4lAyUXcKa9_jkSpHea {
+}
+@media(min-width: 769px) {
+    ._38vs4lAyUXcKa9_jkSpHea {
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+            flex-direction: column;
+        -ms-flex-pack: justify;
+            justify-content: space-between
+    }
+    }
+._3Y961Q5RKApy6FsXD-WEqq {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-bottom: 0;
+        padding-bottom: 30px
+    }
+    }
+._3Y961Q5RKApy6FsXD-WEqq .McWFQ2qtQ7eWurJgkcxWT {
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq .McWFQ2qtQ7eWurJgkcxWT {
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+        padding: 0 40px 0 5px;
+        width: 210px
+    }
+}
+._3Y961Q5RKApy6FsXD-WEqq ._3lVr4WdWKJtJ4vLOg-qOD9 {
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._3lVr4WdWKJtJ4vLOg-qOD9 {
+        width: 20px;
+        height: 20px
+    }
+}
+._3Y961Q5RKApy6FsXD-WEqq ._3zEYL_SYENFPruC7WfHA98 {
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._3zEYL_SYENFPruC7WfHA98 {
+        display: block
+    }
+}
+._3Y961Q5RKApy6FsXD-WEqq ._38vs4lAyUXcKa9_jkSpHea {
+    -ms-flex: 1 0 auto;
+        flex: 1 0 auto
+}
+@media(min-width: 1025px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._38vs4lAyUXcKa9_jkSpHea {
+        margin-right: 40px;
+        -ms-flex-preferred-size: 0px;
+            flex-basis: 0px
+    }
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._38vs4lAyUXcKa9_jkSpHea {
+        -ms-flex-preferred-size: 0px;
+            flex-basis: 0px
+    }
+}
+._3Y961Q5RKApy6FsXD-WEqq ._3Qy7NK9h_x6cgGK4VEq9Es {
+    display: block
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._3Qy7NK9h_x6cgGK4VEq9Es {
+        display: none
+    }
+}
+._3Y961Q5RKApy6FsXD-WEqq ._Fl_g_NXKa6o0ZyrqwgOc {
+    padding: 20px 20px 30px;
+    border: none
+}
+@media(min-width: 769px) {
+    ._3Y961Q5RKApy6FsXD-WEqq ._Fl_g_NXKa6o0ZyrqwgOc {
+        margin: 30px -20px 0 0
+    }
+}
+._1CcYrBWywZFVnIbA3cHXKN {
+}
+._1CcYrBWywZFVnIbA3cHXKN ._2tUM_3igEiLLvD35rboeZ8 {
+    margin-bottom: 5px
+}
+._1CcYrBWywZFVnIbA3cHXKN ._3MyALCcnLdxQbK6kunFzgk {
+    margin-bottom: 15px
+}
+._2qgRMR8ze6Uccjr71J5LwS {
+    border-bottom: none;
+}
+.OJiqyHfzwqMFvNotX1IBb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    height: 100%;
+    min-height: 160px;
+    width: 100%;
+    -ms-flex-pack: center;
+        justify-content: center;
+}
+._7grKWajgutTib7a5uluw8 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+        flex-direction: row;
+    max-width: 600px;
+    -ms-flex-pack: center;
+        justify-content: center;
+}
+._2stnLybwzMcX-ahIYcrP7x {
+    -ms-flex:0 0 auto;
+        flex:0 0 auto;
+    margin: 0 20px 0 10px;
+}
+.tAX2e-Xbd0z1_Wah87Ip5 {
+        width: 50px;
+        height: 50px;
+    }
+._350zvmEcMHzo10ihIBYvpu {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.8rem;
+    font-weight: 400;
+    max-width: 540px;
+    color: #9d9d9d;
+}
+.UlW_8NervWB_ER4as2vvP {
+    display:block;
+    margin-top: 10px;
+}
+._3a9ksuQflYj8WI-xochZnm {
+    margin-bottom: 10px;
+}
+._1g-6uLPFs-_16Nx2dJeawJ {
+    margin-right: 5px;
+    display: inline-block;
+}
+.lpcB9rBT-9ZnPzVtoS457 {
+    margin-bottom: 20px;
+}
+._3FlApb9IlsEiVu12Rigeo6 {
+    margin-bottom: 5px;
+}
+._3SUSfg56Vm0Fr8otqQNkER {
+    width: 13px;
+    height: 13px;
+}
+._3Qy7NK9h_x6cgGK4VEq9Es {
+    display:block;
+}
+._3zEYL_SYENFPruC7WfHA98 {
+    display:none;
+}
+._1xPYIUfA9IwtVyBsOt_SaR {
+    line-height: 2rem;
+    margin-bottom: 20px;
+}
+._1_dikBfyioZMrCoMA4C9hZ {
+    color: #9d9d9d;
+}
+._2tUM_3igEiLLvD35rboeZ8 {
+    margin-bottom: 20px;
+    color: #9d9d9d;
+    line-height: 1.8rem;
+}
+._3MyALCcnLdxQbK6kunFzgk {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 23px;
+}
+._3KCN1LTjZUnyN9xrW3XjtQ {
+    margin-bottom: 10px;
+}
+._1gNnYUNULFDFZqTF8GuaTg {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+        margin-bottom: 30px
+    }
+@media(min-width: 769px) {
+    ._1gNnYUNULFDFZqTF8GuaTg {
+        -ms-flex-pack: start;
+            justify-content: flex-start
+    }
+        }
+.KfLGe9-OOypD6ElqSpPMF {
+        }
+@media(min-width: 769px) {
+    .KfLGe9-OOypD6ElqSpPMF {
+        margin-right: 50px
+    }
+    .KfLGe9-OOypD6ElqSpPMF :last-of-type {
+        margin-right: 0
+    }
+            }
+.ciNCgPLH7xt6R5DhdIUEx,
+            ._3jDMank7AbRcbWDHFn9FHW,
+            .LIjmOl0ILenTuKll1pHL {
+                display: -ms-flexbox;
+                display: flex;
+                border-radius: 50%;
+                width: 35px;
+                height: 35px;
+                -ms-flex-align: center;
+                    align-items: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            }
+.ciNCgPLH7xt6R5DhdIUEx {
+                background-color: #79c9ee;
+            }
+._3jDMank7AbRcbWDHFn9FHW {
+                background-color: #b4dcb7;
+            }
+.LIjmOl0ILenTuKll1pHL {
+                background-color: #ff8a65;
+            }
+._2qLVgvZFQ9YZagsW-pIsL9 {
+                    fill: #fff;
+                }
+._2cDMTy_XQyDRj5iG3j9DSb {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    }
+._1x1nNXJTezUP1E9_h4H8ZD {
+            width: 100%;
+            margin-bottom: 20px
+        }
+@media (min-width: 769px) {
+    ._1x1nNXJTezUP1E9_h4H8ZD {
+        max-width: 45%;
+        -ms-flex: 1 0 45%;
+            flex: 1 0 45%
+    }
+            }
+._3PBdzKLDq_OMzZMmQyWbyg {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+}
+._2NfE_Vr9YcvPmkQKmZVNL0 {
+    line-height: 2rem;
+    margin-bottom: 30px;
+}
+._1U7mB3p3aZwqOgWaYFw2WA {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-align: center;
+        align-items: center
+}
+@media(min-width: 769px) {
+    ._1U7mB3p3aZwqOgWaYFw2WA {
+        margin-bottom: 25px
+    }
+    }
+._1gkeoa5IjE68t6S-8l5Qo0 {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+            align-items: center;
+    }
+._1Gq4i8PqmzSaah0_3h8c9i {
+            font-size: 1.2rem;
+            font-style: italic;
+        }
+._17UzsMIGjLVzK_itiQHOTM {
+                font-weight: 600;
+                color: #298eb9;
+            }
+._5lF3sbE5gy1YlzYkEaMTd,
+._20HpmP9UUFwVjQxfTs2L08 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #9d9d9d;
+    font-weight: 400;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 10px;
+}
+@media(min-width: 769px) {
+    ._5lF3sbE5gy1YlzYkEaMTd,
+._20HpmP9UUFwVjQxfTs2L08 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._5lF3sbE5gy1YlzYkEaMTd:active, ._20HpmP9UUFwVjQxfTs2L08:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._5lF3sbE5gy1YlzYkEaMTd:focus,
+        ._5lF3sbE5gy1YlzYkEaMTd:hover,
+        ._20HpmP9UUFwVjQxfTs2L08:focus,
+        ._20HpmP9UUFwVjQxfTs2L08:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._5lF3sbE5gy1YlzYkEaMTd:focus,
+        ._5lF3sbE5gy1YlzYkEaMTd:hover,
+        ._20HpmP9UUFwVjQxfTs2L08:focus,
+        ._20HpmP9UUFwVjQxfTs2L08:hover {
+    background-color: #fff;
+    border-color: #9d9d9d;
+    color: #333
+}
+._20HpmP9UUFwVjQxfTs2L08,
+._20HpmP9UUFwVjQxfTs2L08:hover,
+._20HpmP9UUFwVjQxfTs2L08:focus {
+    border-color: #00a950;
+    background-color: #00a950;
+    color: #fff;
+}
+._1Cdz6zu0QeOHSFDtnT7H-h {
+    display: inline-block;
+    margin-right: 10px;
+}
+._1tkg2V4dw20-Z3ZmHpmcMH {
+    width: 16px;
+    height: 13px;
+    fill: #9d9d9d;
+}
+._1fEpEvtMOBxsnIHvOnf50k {
+    width: 16px;
+    height: 13px;
+    fill: #fff;
+}
+._3GXeGNyjmTtuXfkmnR8RYA {
+    fill: #9d9d9d;
+    transition: transform 125ms ease-in;
+}
+._2IUSOmPwGzPZSUzr-s9dQW {
+    fill: #298eb9;
+    transition: transform 125ms ease-in;
+}
+._3b_zKP2wurtEu9VAVn5eWr {
+    border: none;
+    background: none;
+    padding: 0 10px;
+    cursor:pointer
+}
+._3b_zKP2wurtEu9VAVn5eWr:hover {
+}
+._3b_zKP2wurtEu9VAVn5eWr:hover ._3GXeGNyjmTtuXfkmnR8RYA {
+    fill: #298eb9
+}
+._3b_zKP2wurtEu9VAVn5eWr:active {
+}
+._3b_zKP2wurtEu9VAVn5eWr:active ._3GXeGNyjmTtuXfkmnR8RYA {
+    transform: scale(0.9)
+}
+._Fl_g_NXKa6o0ZyrqwgOc {
+    margin: 20px -20px -20px;
+    padding: 15px 20px;
+    background: #f7f7f7;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between
+}
+@media(min-width: 769px) {
+    ._Fl_g_NXKa6o0ZyrqwgOc {
+        margin-left: -30px;
+        margin-right: -30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border-top: 1px solid #dddddd
+    }
+    }
+._3DSOX1cxDqVIgJiinA4p7A {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    -ms-flex-negative: 0;
+        flex-shrink: 0;
+    background: #fff;
+}
+._3xfJLqyGCkgww-q_n5FsDU {
+    -ms-flex-positive: 1;
+        flex-grow: 1;
+}
+._34NF4EEzkOZC5Jqs0lHekj {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+._1DcYx4ALUQlJiwJZMkoFYz {
+    word-break: break-word;
+    line-height: 1.8rem;
+}
+.gX8pkEhfTLOkhe0amlfBU {
+    background-color: #ebebf1;
+    margin: 0 -20px;
+    padding: 20px;
+}
+._3L3Ui1NYjIUlcPebE9-BQi {
+        width: 100%;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #dddddd;
+    }
+._2fA-PEeivpdfPdWESpogNm {
+        padding-top: 10px;
+    }
+._10K8eRWB78pIx5x-pVua-6,
+        .NtRgREWApthRdTNy8X46o {
+            line-height: 2.4rem;
+        }
+.NtRgREWApthRdTNy8X46o {
+            font-weight: 600;
+        }
+._3TifFzV6WDzGiflB_zkgEl,
+        ._1CbY9Z738wDQmtLx95OFsM,
+        ._3pRMtFKCN615P1gqO4Uxt7 {
+            width: 100%;
+            height: 100%;
+            padding: 0 10px;
+            font-size: 1.4rem;
+            background: #fff;
+            color: #333;
+            overflow: hidden;
+            border: 1px solid #dddddd;
+            border-radius: 4px;
+            height: 40px;
+            border: 1px solid #dddddd;
+            width: 100%;
+            margin-bottom: 5px;
+        }
+._3TifFzV6WDzGiflB_zkgEl:focus, ._1CbY9Z738wDQmtLx95OFsM:focus, ._3pRMtFKCN615P1gqO4Uxt7:focus {
+    border-color: #12688c
+}
+._3TifFzV6WDzGiflB_zkgEl:placeholder, ._1CbY9Z738wDQmtLx95OFsM:placeholder, ._3pRMtFKCN615P1gqO4Uxt7:placeholder {
+    color: #333
+}
+._1CbY9Z738wDQmtLx95OFsM,
+        ._3pRMtFKCN615P1gqO4Uxt7 {
+            font-family: inherit;
+            resize: vertical;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            height: 80px;
+        }
+._2j5N5uip0AxTYCfjRBGvO1 {
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+            -ms-flex-align: center;
+                align-items: center;
+            margin-top: 5px;
+        }
+._3sTF7pAF9gjFFc0OHl_yQz {
+                display: inline-block;
+                padding: 5px 10px;
+                margin-bottom: 0;
+                line-height: 20px;
+                font-size: 1.2rem;
+                text-align: center;
+                cursor: pointer;
+                color: #fff;
+                background: #298eb9;
+                border: none;
+                transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+                font-weight: 600;
+                text-decoration: none;
+                border-radius: 4px;
+                -ms-touch-action: manipulation;
+                    touch-action: manipulation;
+                -webkit-user-select: none;
+                   -moz-user-select: none;
+                    -ms-user-select: none;
+                        user-select: none;
+                padding: 5px 20px;
+            }
+@media(min-width: 769px) {
+    ._3sTF7pAF9gjFFc0OHl_yQz {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._3sTF7pAF9gjFFc0OHl_yQz:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._3sTF7pAF9gjFFc0OHl_yQz:focus,
+        ._3sTF7pAF9gjFFc0OHl_yQz:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._3rzTWzyzSNPk6yQN2aUoe0 {
+                border: none;
+                background: none;
+                padding: 0;
+                margin: 0;
+                color: #298eb9;
+                cursor: pointer;
+                text-decoration: none;
+            }
+._3rzTWzyzSNPk6yQN2aUoe0:hover,
+        ._3rzTWzyzSNPk6yQN2aUoe0:focus {
+    color: #12688c
+}
+._1sf-E6g9T0-Gc_9W4qfNgl {
+    margin-bottom: 20px;
+    min-height: 77px;
+}
+._3vsbcsaqiGcWnqmJERe8wc {
+    margin-bottom: 20px;
+}
+._3E5gD3CRNEadQt92lM4pJm{
+    line-height: 1.8rem;
+    margin-bottom: 20px;
+}
+.ojWFGarVsm7ilzLUzcNi6{
+    width: 75%;
+    margin-left: 30px;
+}
+._1q6FEjeFqH_1qJAtHpDxYr {
+    fill: #9d9d9d;
+}
+.QJ1Pn3Av-zAiX70q4Rs6T{
+    width: 75px;
+    height: 75px;
+    fill: #333;
+}
+._16c_PJxUIMxgBcI03e8rSe{
+    display: none
+}
+@media(min-width: 769px) {
+    ._16c_PJxUIMxgBcI03e8rSe {
+        display: block
+    }
+    }
+._1QE1ZohM1gyEAi0a6Zfeex {
+    width: 100%;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    padding: 5px 20px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+@media(min-width: 769px) {
+    ._1QE1ZohM1gyEAi0a6Zfeex {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._1QE1ZohM1gyEAi0a6Zfeex:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._1QE1ZohM1gyEAi0a6Zfeex:focus,
+        ._1QE1ZohM1gyEAi0a6Zfeex:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._2a4qsm_aOlM0vCq-874rjY {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+@media(min-width: 769px) {
+    ._2a4qsm_aOlM0vCq-874rjY {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._2a4qsm_aOlM0vCq-874rjY:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._2a4qsm_aOlM0vCq-874rjY:focus,
+        ._2a4qsm_aOlM0vCq-874rjY:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._3yU8K_bsZKHO10JpXVw3lP{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between
+}
+@media(min-width: 769px) {
+    ._3yU8K_bsZKHO10JpXVw3lP {
+        padding: 18px
+    }
+    }
+._29VwMCiMzR2Vmf938gVZuo {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+._3ktxX1gkpEjs74S-rl7Vsu {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+._3h_6IQxFYHKeKtF0M9vgTO {
+    margin-bottom: 5px;
+    display: inline-block
+}
+._3h_6IQxFYHKeKtF0M9vgTO:after {
+    content: '*';
+    color: #EF645F;
+    font-size: 28.8px;
+    font-size: 1.8rem
+}
+._3pRMtFKCN615P1gqO4Uxt7 {
+    min-height: 120px;
+    max-height: 300px;
+}
+.qIpwXzFbXueENpXeuFCFT {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+}
+.Q-WYklFjGd1qwiaepj0lT {
+    color: #EF645F;
+    display:block;
+    height: 20px;
+}
+._3Vcajm5xaTPkXpsQq5e8aD {
+  text-align: right;
+  margin-bottom: 20px;
+}
+._1OF6zO9fqa7_RVHsxHY_-I {
+      display: -ms-inline-flexbox;
+      display: inline-flex;
+      margin-right: -30px;
+      max-width: 100%;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+      background-color: #F5F5F7;
+      height: 30px;
+      padding: 0 20px;
+      -ms-flex-align: center;
+          align-items: center;
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.rnnQVJ9zUs2zP9fFipWk0 { position: relative; }
+.wvNbDmdkCMhK_WJkGp8pp,
+._1sZAHMCrxfvL-xOws9eybq {
+    text-align:center;
+    border: none;
+    background: none;
+    display: block;
+    position: absolute;
+    top:50%;
+    left:10px;
+    width:40px;
+    height: 40px;
+    margin-top:-20px;
+    z-index: 10;
+    cursor: pointer;
+    outline: none;
+    border-radius: 50%;
+    transition: background 125ms ease-in-out;
+    background: transparent
+}
+.wvNbDmdkCMhK_WJkGp8pp svg, ._1sZAHMCrxfvL-xOws9eybq svg { zoom: 1.2;
+}
+.wvNbDmdkCMhK_WJkGp8pp:hover, ._1sZAHMCrxfvL-xOws9eybq:hover { background: #298eb9;
+}
+._1sZAHMCrxfvL-xOws9eybq {
+    left: auto;
+    right: 10px;
+}
+._1hrT4-KRmjVfBaRO1H57Br {
+  transition: transform 300ms ease-in-out;
+  transform: translate(0, 0);
+}
+._3CpxGAVeXE8ANsJpV6PykX {
+  transform: translate(-100%, 0);
+}
+.ZolCGDr76F2e0IxJ0K7Dg {
+  transform: translate(100%, 0);
+}
+._3HNVEUrgk72NgX4pKtK9RI {
+  transition: transform 300ms ease-in-out;
+  transform: translate(100%, 0);
+}
+._36u2ynOf3U7MmaD7DJ-Own {
+  transition: transform 300ms ease-in-out;
+  transform: translate(-100%, 0);
+}
+._2Tbc2rL2n0lYNPKZGu26ct {
+  transform: translate(0, 0);
+}
+._1rmDmdWdVZ3vDOnMSK-yw6 {
+  transition: height 300ms ease-in-out;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.tNpZ-r8HSFPRZ6NJvAkbQ {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: 10
+}
+.tNpZ-r8HSFPRZ6NJvAkbQ:hover,
+    .tNpZ-r8HSFPRZ6NJvAkbQ:focus {}
+.tNpZ-r8HSFPRZ6NJvAkbQ:hover + ._17K_jlNIquuKQU44vUZEeb ._1QBdQ2RQJeM_ZSVesIn2EG, .tNpZ-r8HSFPRZ6NJvAkbQ:focus + ._17K_jlNIquuKQU44vUZEeb ._1QBdQ2RQJeM_ZSVesIn2EG {
+    color: #12688c
+}
+._17K_jlNIquuKQU44vUZEeb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+        flex-direction: row;
+    -ms-flex-align: center;
+        align-items: center
+}
+@media(min-width: 481px) {
+    ._17K_jlNIquuKQU44vUZEeb {
+        -ms-flex-direction: column;
+            flex-direction: column
+    }
+    }
+._1Wo0vGENTjCCMjDbLVyH4z {
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    background: #fff
+}
+@media(min-width: 481px) {
+    ._1Wo0vGENTjCCMjDbLVyH4z {
+        height: 124px;
+        width: 100%
+    }
+    }
+._3v8mlh6DJA6lCa1NaznHJu {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: start;
+        align-items: flex-start;
+    background-color: #fff;
+    padding: 15px;
+    position: relative;
+    max-width: calc(100% - 80px)
+}
+@media(min-width: 481px) {
+    ._3v8mlh6DJA6lCa1NaznHJu {
+        -ms-flex-direction: column;
+            flex-direction: column;
+        -ms-flex-align: center;
+            align-items: center;
+        max-width: 100%
+    }
+    }
+._1x0avqkrDeWWIZqjPOlRAr {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 30px;
+}
+._3AeHX2vx94N6smkzp_ADCu {
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-transform: uppercase;
+    border-bottom-left-radius: 15px;
+    background-color: #00a950;
+    color: #fff;
+    text-align: center;
+    padding: 8px 16px;
+    font-weight: 600;
+    font-size: 1.2rem;
+    -ms-flex-align: center;
+        align-items: center;
+    vertical-align: middle;
+}
+._1QBdQ2RQJeM_ZSVesIn2EG {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    display: inline-block;
+    padding: 1px 0;
+    /* This is a temporary to fix some of the word like 'g', 'p', 'y' is now showing the lower part due to overflow */
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #298eb9;
+}
+._1wZg4X_PMV4mxozQYM7ILi {
+    margin: 10px 5px 10px 0;
+}
+._2Mh84TUiRZuxXQsSzP51Y7 {
+    transform: scale(1.4);
+    margin-right:4px;
+    width: 12px;
+    height: 12px;
+}
+._3lXEeEziaNa9kLuC7PbS69 {
+    color: #333;
+    font-size: 1.2rem;
+    z-index: 10;
+    padding: 2px;
+}
+._1OOiQayttuMEAr5uewwVMY {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    color: #298eb9;
+    cursor: pointer;
+    text-decoration: none;
+}
+._1OOiQayttuMEAr5uewwVMY:hover,
+        ._1OOiQayttuMEAr5uewwVMY:focus {
+    color: #12688c
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.d5Hg4ntXcMC_-7KgYXhN0 {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+._36IBzpwuujJR0mRChZgcP2 {
+    position: relative;
+    height: 350px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    background: #9d9d9d;
+    text-align: center;
+    padding: 0 20px;
+    background:url(https://js-prod-react.companyreview.co/dist/faa153b3.jpg) 68% 0 no-repeat;
+    background-size: cover
+}
+@media(min-width: 769px) {
+    ._36IBzpwuujJR0mRChZgcP2 {
+        padding-bottom: 10px;
+    }
+    }
+._36IBzpwuujJR0mRChZgcP2::after {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .2) 33.33%, rgba(0, 0, 0, 0) 100%);
+}
+._1TYIXc8mGR2GZt0P96SVBg {
+    z-index: 15;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    position:relative;
+    text-align:center;
+    max-width: 700px
+}
+@media(min-width: 769px) {
+    ._1TYIXc8mGR2GZt0P96SVBg {
+        font-size: 3.6rem;
+        line-height: 4rem;
+    }
+    }
+._3Lg6j2ndDdpUMjcn75aIAF {
+    z-index: 15;
+    max-width: 570px;
+    height: 40px;
+    width: 100%;
+    text-align:left;
+}
+.NwmjZ77njcFLg89j3INZa {
+    background: #fff;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #dddddd
+}
+@media(min-width: 769px) {
+    .NwmjZ77njcFLg89j3INZa {
+        margin-bottom: 30px;
+        padding: 0 40px;
+        background: none;
+        border: none;
+    }
+    }
+._3lqpsrNK4COmvnxVTVLGC6 {
+    font-size: 2rem;
+    line-height: 2.3rem;
+    color: #333;
+    font-weight: 300;
+    padding: 30px 0;
+    text-align: center
+}
+@media(min-width: 769px) {
+    ._3lqpsrNK4COmvnxVTVLGC6 {
+        font-size: 3.1rem;
+        line-height: 3.8rem;
+    }
+    }
+._1grjnyhRWwPzZE8o0r5Y8 {}
+._2xo0DnJm9060Tl_q_1AXrF {
+    display:-ms-flexbox;
+    display:flex;
+    -ms-flex-flow: column;
+        flex-flow: column;
+    width: 100%
+}
+@media(min-width: 769px) {
+    ._2xo0DnJm9060Tl_q_1AXrF {
+        -ms-flex-flow: row;
+            flex-flow: row;
+    }
+    }
+._296xmCKJTL-NZEsZ29ZPST {
+    min-height: 240px;
+    position:relative;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: top center
+}
+._296xmCKJTL-NZEsZ29ZPST:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%,rgba(0, 0, 0, 0) 70%,rgba(0, 0, 0, .5) 100%);
+}
+@media(min-width: 769px) {
+    ._296xmCKJTL-NZEsZ29ZPST {
+        width: 50%;
+    }
+    }
+._3XB4WmtoWvkYRkEnre_Uo3 {
+    background: #fff;
+    padding: 15px 15px
+}
+@media(min-width: 769px) {
+    ._3XB4WmtoWvkYRkEnre_Uo3 {
+        width: 50%;
+        border: 1px solid #dddddd;
+        padding: 30px 30px;
+    }
+    }
+._28KF9NP4R80pueRnAXBs2U {
+    position:relative;
+    z-index: 10;
+    padding: 20px 15px;
+    color: #fff
+}
+@media(min-width: 769px) {
+    ._28KF9NP4R80pueRnAXBs2U {
+        padding-left: 20px;
+    }
+    }
+._3iV4CKMbouMiHGh1PcqHgF {
+    width: 70px;
+    height: 70px;
+    background: #fff;
+    float: left;
+    margin-right: 10px;
+}
+._1iazDav-ZIJG6vCoKtJk5z {
+    font-weight: 600;
+    text-shadow: rgba(0, 0, 0, .4) 0 0 5px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+._1ZBxprx2OlBLGwwk_41lR7 {
+    display: block;
+}
+.xe1VCBcG-ZMPMoEI-XzHW {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    margin: 0 10px 10px 0
+}
+@media(min-width: 769px) {
+    .xe1VCBcG-ZMPMoEI-XzHW {
+        font-size: 1.4rem;
+        padding: 6px 20px;
+    }
+}
+.xe1VCBcG-ZMPMoEI-XzHW:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95);
+}
+.xe1VCBcG-ZMPMoEI-XzHW:focus,
+        .xe1VCBcG-ZMPMoEI-XzHW:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none;
+}
+.xe1VCBcG-ZMPMoEI-XzHW:last-child {
+    margin-right: 0;
+}
+.cFBw0Jx_I_t70U7gmSGMz {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+    margin-bottom: 20px
+}
+@media(min-width: 481px) {
+    .cFBw0Jx_I_t70U7gmSGMz {
+        margin: 35px 40px 10px;
+    }
+    }
+._2NUIGG8ocHDUVUhO1N0xXI {
+    position: relative;
+    padding: 5px;
+    width: 100%;
+    border-bottom: 1px solid #dddddd;
+    background-color: #fff
+}
+@media(min-width: 481px) {
+    ._2NUIGG8ocHDUVUhO1N0xXI {
+        width: 49%;
+        padding: 0;
+        margin-bottom: 20px;
+        margin-right: 2%;
+        border: 1px solid #dddddd;
+    }
+    ._2NUIGG8ocHDUVUhO1N0xXI:nth-child(2n) {
+        margin-right: 0;
+    }
+    }
+@media(min-width: 769px) {
+    ._2NUIGG8ocHDUVUhO1N0xXI {
+        width: 23%;
+        padding: 0;
+        margin-bottom: 20px;
+        margin-right: 2.66%;
+        border: 1px solid #dddddd;
+    }
+    ._2NUIGG8ocHDUVUhO1N0xXI:nth-child(2n) {
+        margin-right: 2.66%;
+    }
+    ._2NUIGG8ocHDUVUhO1N0xXI:nth-child(4n) {
+        margin-right: 0;
+    }
+    }
+._1UZw6cyXrcHXiaXhi9httr {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+}
+._1La9k85R4-QcgwXCTt6CI6 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    margin-bottom: 30px;
+}
+@media(min-width: 769px) {
+    ._1La9k85R4-QcgwXCTt6CI6 {
+        font-size: 1.4rem;
+        padding: 6px 20px;
+    }
+}
+._1La9k85R4-QcgwXCTt6CI6:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95);
+}
+._1La9k85R4-QcgwXCTt6CI6:focus,
+        ._1La9k85R4-QcgwXCTt6CI6:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none;
+}
+._1JjoGfnStm9kELqpmC22vr {
+    background: #fff;
+    padding: 20px 40px;
+    margin-bottom: 40px;
+}
+._3Y8K4luNiNhlfN7myPy4Bd {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 2.4rem;
+    font-size: 1.8rem;
+    font-weight: normal;
+    text-align:center;
+    margin: 10px 0 20px
+}
+@media(min-width: 769px) {
+    ._3Y8K4luNiNhlfN7myPy4Bd {
+        margin: 20px 0 50px;
+        font-size: 3.2rem;
+    }
+    }
+._3BwMVUcNsHYHOxJEzheCei {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-flow: column;
+        flex-flow: column
+}
+@media(min-width: 769px) {
+    ._3BwMVUcNsHYHOxJEzheCei {
+        -ms-flex-flow: row;
+            flex-flow: row;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    }
+    }
+._3tUrJCqSaZBONY15eFDVv2 {
+    max-width: 210px;
+    text-align:center;
+}
+._3CMFxczXhWR6P8TtAdV77t {
+    height: 80px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    font-size: 4.5rem;
+    color: #058b32
+}
+@media(min-width: 769px) {
+    ._3CMFxczXhWR6P8TtAdV77t {
+        margin-bottom: 20px;
+    }
+    }
+._2Tdpo17CkkF0U3bzd3OeJC {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-bottom: 15px;
+    font-size: 1.8rem
+}
+@media(min-width: 769px) {
+    ._2Tdpo17CkkF0U3bzd3OeJC {
+        min-height: 4.8rem;
+        margin-bottom: 0;
+    }
+    }
+.oXGeIaX55mjMxTwGv6169 {
+    line-height:2.3rem;
+    margin-bottom:10px;
+}
+._38XNAEYPPXf64B-8Er22T2 {}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._39gSd1KrGXD3TSR5MrIFhF {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    width: 100%
+}
+@media (min-width: 769px) {
+    ._39gSd1KrGXD3TSR5MrIFhF {
+        width: auto
+    }
+    }
+._2srtpdMNJdXb549RYlV0fC {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    font-weight: 600;
+    width: 90%
+}
+@media(min-width: 769px) {
+    ._2srtpdMNJdXb549RYlV0fC {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._2srtpdMNJdXb549RYlV0fC:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._2srtpdMNJdXb549RYlV0fC:focus,
+        ._2srtpdMNJdXb549RYlV0fC:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+@media (min-width: 769px) {
+    ._2srtpdMNJdXb549RYlV0fC {
+        width: auto
+    }
+    }
+.uYOWi2aqv1QxTMl4jdOvS {
+    margin-left: 10px;
+}
+._1HlO5tGlLOKTBeoCQFBC3T {
+    fill: #fff;
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.dhWDiF6m6qABj6xu1tpYn {
+    padding: 20px 10px 0 10px
+}
+@media(min-width: 1025px) {
+    .dhWDiF6m6qABj6xu1tpYn {
+        padding: 20px 0 0 0
+    }
+    }
+._31tTIUHtk0JKykyTpAPcWI {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+}
+._1behPjHmVVaoCG7MNvkbg3 {
+    margin-bottom: 30px;
+}
+._3mAZfYN0KzsGWDyXACLSvt {
+    line-height:1.8rem;
+    margin-bottom: 10px;
+}
+._2izm1xnn1iwYP9COnn2UU5 {
+    margin-left: 15px;
+}
+._2TEhAjVqsojwxyCkR976cR {
+    line-height:1.8rem;
+    margin-left: 10px;
+    padding-left: 10px;
+    list-style:disc;
+}
+.SQ1D1izc67-_9JOrzY0oC {
+    margin-bottom: 60px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1UahrrLuIBgvtsoLUaTYvM {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+._1qaRa3ojr_sOzx870JGaq- {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+}
+._rtjIly0CWHBiEVt_Id1T {
+    padding: 20px 10px 0 10px
+}
+@media(min-width: 1025px) {
+    ._rtjIly0CWHBiEVt_Id1T {
+        padding: 20px 0 0 0;
+    }
+    }
+._20E1Bgc72sQJtZT8wFdzpj {
+    display: block
+}
+@media(min-width: 769px) {
+    ._20E1Bgc72sQJtZT8wFdzpj {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    }
+._1dHsnyp-Xmzj8SMLjagtvG {
+    overflow: hidden
+}
+@media(min-width: 769px) {
+    ._1dHsnyp-Xmzj8SMLjagtvG {
+        -ms-flex: 0 1 32%;
+            flex: 0 1 32%;
+        margin-right: 15px;
+    }
+    ._1dHsnyp-Xmzj8SMLjagtvG:nth-child(3n + 0) {
+        margin-right: 0;
+    }
+    }
+@media(max-width: 768px) {
+    ._1dHsnyp-Xmzj8SMLjagtvG {
+        max-width: 100%;
+        margin-right: 0;
+    }
+    }
+.tpDrySWlYZ6YyxlXIP4T6 {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1-C0oB8pVYAVA6oRDruA9T {}
+._15yikjDij51v8vvGIHiWcX {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    color: #fff;
+    position: relative;
+    width: 100%;
+    background: url(https://js-prod-react.companyreview.co/dist/bb58a1c9.jpg) 50% 33% no-repeat;
+    background-size: cover;
+    height: 150px;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._15yikjDij51v8vvGIHiWcX {
+        height: 220px;
+        margin-bottom: 50px
+    }
+    }
+._15yikjDij51v8vvGIHiWcX::after {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, .2) 100%)
+}
+.lh9Pohev-cuDLTuBOro50 {
+    max-width: 80%;
+    text-align: center;
+}
+._1_16wNEVplnJ-zQiuVoyRR,
+.CMv00mgsXag5gAr4TwLL7 {
+    position: relative;
+    z-index: 15;
+}
+._1_16wNEVplnJ-zQiuVoyRR {
+    margin:0;
+    font-size: 2.8rem;
+    font-weight: 600;
+    line-height: 3rem;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._1_16wNEVplnJ-zQiuVoyRR {
+        font-size: 3.6rem;
+        line-height: 4.2rem
+    }
+    }
+.CMv00mgsXag5gAr4TwLL7 {
+    display: block;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2rem
+}
+@media(min-width: 769px) {
+    .CMv00mgsXag5gAr4TwLL7 {
+        font-size: 2rem;
+        line-height: 2.6rem
+    }
+    }
+._2k_MxV4qmAzXKOFMxSEL0O {
+    max-width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    padding: 0 10px
+}
+@media(min-width: 1025px) {
+    ._2k_MxV4qmAzXKOFMxSEL0O {
+        padding: 0
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1MNnvNxhAqTrNks6uGpJDI {
+    font-size: 1.4rem;
+    color: #afafaf;
+    line-height: 2rem;
+    padding: 30px 20px
+}
+@media (min-width: 769px) {
+    ._1MNnvNxhAqTrNks6uGpJDI {
+        padding-right: 0;
+        padding-left: 0
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3joNSabPbIalQw1XDJgwoh {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+._2wg63SX2i5OAcNfg8lvDIi {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    margin-right: -10px
+}
+@media(min-width: 481px) {
+    ._2wg63SX2i5OAcNfg8lvDIi {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    }
+._157tdY99JCRU_Qa5y4dl6U {
+    position: relative;
+    padding: 5px;
+    width: 100%;
+    border-bottom: 1px solid #dddddd;
+    background-color: #fff
+}
+@media(min-width: 481px) {
+    ._157tdY99JCRU_Qa5y4dl6U {
+        width: 49%;
+        padding: 0;
+        margin-bottom: 20px;
+        margin-right: 2%;
+        border: 1px solid #dddddd;
+    }
+    ._157tdY99JCRU_Qa5y4dl6U:nth-child(2n) {
+        margin-right: 0;
+    }
+    }
+@media(min-width: 769px) {
+    ._157tdY99JCRU_Qa5y4dl6U {
+        width: 23%;
+        padding: 0;
+        margin-bottom: 20px;
+        margin-right: 2.66%;
+        border: 1px solid #dddddd;
+    }
+    ._157tdY99JCRU_Qa5y4dl6U:nth-child(2n) {
+        margin-right: 2.66%;
+    }
+    ._157tdY99JCRU_Qa5y4dl6U:nth-child(4n) {
+        margin-right: 0;
+    }
+    }
+._1eCYFYd1VZbTGwuZXnAEP {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2cZENMGFA8PhFt5jZZAIiK {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    background: #fff;
+    z-index: 15
+}
+@media(min-width: 1025px) {
+    ._2cZENMGFA8PhFt5jZZAIiK {
+        max-width: 1024px;
+        left: 50%;
+        margin-left: -512px
+    }
+    }
+._2rk9sXZK41SN2btnx6mCls {
+    margin:0;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1_FU3ohVC0986qAa3EnYGX {
+    height: 40px
+}
+@media(min-width: 769px) {
+    ._1_FU3ohVC0986qAa3EnYGX {
+        height: 52px
+    }
+    }
+._3i5iuj64M_BDYR4SeAPoMO {
+}
+._3i5iuj64M_BDYR4SeAPoMO ._1wS6JqkGM1oqc_8cpInTpE {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-align: center;
+        align-items: center
+}
+@media(min-width: 769px) {
+    ._3i5iuj64M_BDYR4SeAPoMO ._1wS6JqkGM1oqc_8cpInTpE {
+        height: 50px;
+        margin: 0 40px;
+        padding-left: 0
+    }
+}
+._3i5iuj64M_BDYR4SeAPoMO ._1rIqL44DuldO7NrWjYSwSi,
+    ._3i5iuj64M_BDYR4SeAPoMO .SnfAtaYFwjnhuKJjOeX3- {
+    display: block;
+    width: auto;
+    -ms-flex: 0 0 auto;
+        flex: 0 0 auto
+}
+._3i5iuj64M_BDYR4SeAPoMO ._31LX2FeG_deGPIrQdx_07y {
+}
+@media (max-width: 768px) {
+    ._3i5iuj64M_BDYR4SeAPoMO ._31LX2FeG_deGPIrQdx_07y {
+        overflow-x: auto;
+        position: relative;
+        display: block
+    }
+    ._3i5iuj64M_BDYR4SeAPoMO ._31LX2FeG_deGPIrQdx_07y:before {
+        content: '';
+        display: block;
+        width: 40px;
+        height: 100%;
+        top: 0;
+        right: 0;
+        position: absolute;
+        background: linear-gradient(to right, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 1) 100%)
+    }
+}
+._3i5iuj64M_BDYR4SeAPoMO ._1JhFSbFzrI-KbE6gijcuEv,
+    ._3i5iuj64M_BDYR4SeAPoMO .xWJiRfbvrEtATq_mheRv1 {
+}
+@media(min-width: 769px) {
+    ._3i5iuj64M_BDYR4SeAPoMO ._1JhFSbFzrI-KbE6gijcuEv,
+    ._3i5iuj64M_BDYR4SeAPoMO .xWJiRfbvrEtATq_mheRv1 {
+        margin-right: 10px
+    }
+}
+._3i5iuj64M_BDYR4SeAPoMO ._2BWRNsQlwtC-euny6VJHnx {
+}
+@media(min-width: 769px) {
+    ._3i5iuj64M_BDYR4SeAPoMO ._2BWRNsQlwtC-euny6VJHnx {
+        font-size: 1.5rem
+    }
+}
+._3i5iuj64M_BDYR4SeAPoMO .KOO9ce4jVzr29yBkfZDk2 {
+}
+@media(min-width: 769px) {
+    ._3i5iuj64M_BDYR4SeAPoMO .KOO9ce4jVzr29yBkfZDk2 {
+        top: 0
+    }
+}
+._31LX2FeG_deGPIrQdx_07y {
+}
+@media (max-width: 768px) {
+    ._31LX2FeG_deGPIrQdx_07y {
+        -ms-flex: 1 0 auto;
+            flex: 1 0 auto;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+            justify-content: space-around
+    }
+  }
+._1wS6JqkGM1oqc_8cpInTpE {
+    display: -ms-flexbox;
+    display: flex;
+    margin:0
+}
+@media(min-width: 769px) {
+    ._1wS6JqkGM1oqc_8cpInTpE {
+        padding-left: 210px;
+        transition: padding 125ms ease-in-out
+    }
+    }
+._1JhFSbFzrI-KbE6gijcuEv,
+.xWJiRfbvrEtATq_mheRv1 {
+    display: inline-block;
+    border-bottom: 2px solid transparent;
+    padding: 0 10px;
+    font-size: 1.2rem;
+    text-align: center;
+    -ms-flex: 1 0 auto;
+        flex: 1 0 auto
+}
+._1JhFSbFzrI-KbE6gijcuEv:focus,
+    ._1JhFSbFzrI-KbE6gijcuEv:hover,
+    .xWJiRfbvrEtATq_mheRv1:focus,
+    .xWJiRfbvrEtATq_mheRv1:hover {
+    text-decoration: none
+}
+._1JhFSbFzrI-KbE6gijcuEv:focus ._2BWRNsQlwtC-euny6VJHnx, ._1JhFSbFzrI-KbE6gijcuEv:hover ._2BWRNsQlwtC-euny6VJHnx, .xWJiRfbvrEtATq_mheRv1:focus ._2BWRNsQlwtC-euny6VJHnx, .xWJiRfbvrEtATq_mheRv1:hover ._2BWRNsQlwtC-euny6VJHnx {
+    color: #298eb9
+}
+@media(min-width: 769px) {
+    ._1JhFSbFzrI-KbE6gijcuEv,
+.xWJiRfbvrEtATq_mheRv1 {
+        font-size: 1.4rem;
+        margin-right: 50px
+    }
+    }
+.xWJiRfbvrEtATq_mheRv1 {
+    border-bottom-color: #298eb9
+}
+.xWJiRfbvrEtATq_mheRv1 ._2BWRNsQlwtC-euny6VJHnx {
+    color: #298eb9
+}
+._2BWRNsQlwtC-euny6VJHnx {
+    color: #333;
+    line-height: 40px;
+    font-size: 1.4rem
+}
+@media(min-width: 769px) {
+    ._2BWRNsQlwtC-euny6VJHnx {
+        font-size: 1.8rem;
+        font-weight: 600;
+        line-height: 50px
+    }
+    }
+.KOO9ce4jVzr29yBkfZDk2 {
+    display: inline-block;
+    border: 1px solid #757575;
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    padding: 0 4px;
+    line-height: 1.4rem;
+    margin-left: 3px;
+    color: #fff;
+    border-color: #058b32;
+    background-color: #058b32
+}
+@media(min-width: 769px) {
+    .KOO9ce4jVzr29yBkfZDk2 {
+        position: relative;
+        top: -2px
+    }
+    }
+.L3N98I20ofDjHjgGIFnFz {
+    border:none;
+    border-radius: 0;
+    background: none;
+    border-left: 1px solid #9d9d9d;
+    padding-left: 20px;
+    height: 22px;
+    width:48px;
+    padding:0;
+    margin: 10px 0;
+    cursor: pointer
+}
+@media (min-width: 769px) {
+    .L3N98I20ofDjHjgGIFnFz {
+        display: none
+    }
+    }
+._2XFzsx1uobYwY_2XmcPQ16 {
+}
+@media (max-width: 768px) {
+    ._2XFzsx1uobYwY_2XmcPQ16 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        padding: 5px 20px;
+        background: #fff
+    }
+    }
+@media (min-width: 769px) {
+    ._2XFzsx1uobYwY_2XmcPQ16 {
+        width: 310px;
+        height: 40px
+    }
+    }
+._1rIqL44DuldO7NrWjYSwSi,
+.SnfAtaYFwjnhuKJjOeX3- {
+    display: none;
+    width:0;
+    transition: width 125ms ease-in-out
+}
+@media (min-width: 769px) {
+    ._1rIqL44DuldO7NrWjYSwSi,
+.SnfAtaYFwjnhuKJjOeX3- {
+        position: relative
+    }
+    }
+.SnfAtaYFwjnhuKJjOeX3- ._2XFzsx1uobYwY_2XmcPQ16 { display: block; }
+._2XFzsx1uobYwY_2XmcPQ16 {
+}
+@media (max-width: 768px) {
+    ._2XFzsx1uobYwY_2XmcPQ16 {
+        display: none
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.GizpAye7uOUwCt0yt2Vhj {
+	background: #fff;
+	box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+	margin-bottom: 10px;
+	padding: 0;
+	margin-bottom: 10px
+}
+@media(min-width: 769px) {
+    .GizpAye7uOUwCt0yt2Vhj {
+        margin-top: 40px
+    }
+	}
+._2ccK3Q8KS7EDwUUT8bQ5Hb {
+	}
+@media(min-width: 769px) {
+    ._2ccK3Q8KS7EDwUUT8bQ5Hb {
+        height: 160px;
+        position: relative;
+        display: -ms-flexbox;
+        display: flex
+    }
+		}
+.aAz5FE7elN5EpOE9X7ZlW {
+			background-color: #9d9d9d;
+			background-position: top center;
+			background-size: cover;
+			height: 160px;
+			position:relative
+		}
+@media(min-width: 769px) {
+    .aAz5FE7elN5EpOE9X7ZlW {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden
+    }
+			}
+.aAz5FE7elN5EpOE9X7ZlW:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, .5) 85%)
+}
+.a2MtI4Wcc24dmuMQGqgam {
+			position: relative;
+			z-index: 10;
+			margin-bottom: 10px
+		}
+@media(min-width: 769px) {
+    .a2MtI4Wcc24dmuMQGqgam {
+        margin: 0;
+        margin-left: 40px
+    }
+			}
+._2MS4rbzjIut7rOJ1TsKrIV {
+				padding: 10px;
+				width: 110px;
+				height: 110px;
+				background: #fff;
+				border: 1px solid #f7f7f7;
+				margin: -45px auto 0
+			}
+@media(min-width: 769px) {
+    ._2MS4rbzjIut7rOJ1TsKrIV {
+        float: right;
+        width: 140px;
+        height: 140px;
+        margin: 60px 20px 0 0
+    }
+				}
+.V4IUPu9R4tSmCSFwLuhev {
+			text-align: center
+		}
+@media(min-width: 769px) {
+    .V4IUPu9R4tSmCSFwLuhev {
+        text-align: left;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: end;
+            align-items: flex-end;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        margin-right: 20px;
+        position: relative;
+        z-index: 10
+    }
+			}
+._1C-6gdzz9sHYivt6uXd_h- {}
+._12x74-XLiHCJbGS0ymy4W3 {
+					font-size: 2rem;
+					margin-bottom: 5px
+				}
+@media(min-width: 769px) {
+    ._12x74-XLiHCJbGS0ymy4W3 {
+        color: #fff;
+        font-size: 2.4rem;
+        font-weight: 600;
+        text-shadow: rgba(0, 0, 0, .2) 0 0 5px
+    }
+					}
+._4M9M6BL6WODIESLy62e7B {
+					line-height: 2rem;
+					font-size: 1.2rem;
+					margin-bottom: 10px;
+					font-weight: 400;
+					color: #9d9d9d
+				}
+@media(min-width: 769px) {
+    ._4M9M6BL6WODIESLy62e7B {
+        color: #fff;
+        text-shadow: rgba(0, 0, 0, .2) 0 0 1px
+    }
+					}
+._3i9y22yt_Z2nYUj2gQoZzN {
+				display: -ms-flexbox;
+				display: flex;
+				-ms-flex-pack: center;
+				    justify-content: center;
+				margin-bottom: 10px
+			}
+@media (min-width: 769px) {
+    ._3i9y22yt_Z2nYUj2gQoZzN {
+        display: none
+    }
+				}
+.XDr9cpuF8AH86sCw4zYet {
+					font-size: 1.6rem;
+					font-weight: bold;
+					margin-right: 15px;
+				}
+._2BuxK748DDpyZ3WSWF7rNk {}
+._3n2q-K2-HwgpeTgxiE5GsN {}
+.iawFGEOolBNKDt_KK5csU {
+				text-align: center;
+				color: #298eb9;
+				line-height: 1rem;
+				font-size: 1.2rem;
+				margin-bottom: 10px
+			}
+@media (min-width: 769px) {
+    .iawFGEOolBNKDt_KK5csU {
+        display: none
+    }
+				}
+._3G_Z3joVxYooJc6cZV6dKK {
+				margin-top: 20px;
+				min-width: 150px
+			}
+@media(min-width: 769px) {
+    ._3G_Z3joVxYooJc6cZV6dKK {
+        margin-bottom: -50px;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between
+    }
+				}
+._30FxAJFnnaltjUvUafqlBQ {
+					display: inline-block;
+					padding: 5px 10px;
+					margin-bottom: 0;
+					line-height: 20px;
+					font-size: 1.2rem;
+					text-align: center;
+					cursor: pointer;
+					color: #fff;
+					background: #298eb9;
+					border: none;
+					transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+					font-weight: 600;
+					text-decoration: none;
+					border-radius: 4px;
+					-ms-touch-action: manipulation;
+					    touch-action: manipulation;
+					-webkit-user-select: none;
+					   -moz-user-select: none;
+					    -ms-user-select: none;
+					        user-select: none;
+					margin-bottom: 10px;
+					min-width: 110px;
+				}
+@media(min-width: 769px) {
+    ._30FxAJFnnaltjUvUafqlBQ {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._30FxAJFnnaltjUvUafqlBQ:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._30FxAJFnnaltjUvUafqlBQ:focus,
+        ._30FxAJFnnaltjUvUafqlBQ:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._37G2qrltxzlm9AF8lbdJX0 {
+					display: inline-block;
+					padding: 5px 10px;
+					margin-bottom: 0;
+					line-height: 20px;
+					font-size: 1.2rem;
+					text-align: center;
+					cursor: pointer;
+					color: #fff;
+					background: #298eb9;
+					border: none;
+					transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+					font-weight: 600;
+					text-decoration: none;
+					border-radius: 4px;
+					-ms-touch-action: manipulation;
+					    touch-action: manipulation;
+					-webkit-user-select: none;
+					   -moz-user-select: none;
+					    -ms-user-select: none;
+					        user-select: none;
+					margin-left: 10px
+				}
+@media(min-width: 769px) {
+    ._37G2qrltxzlm9AF8lbdJX0 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._37G2qrltxzlm9AF8lbdJX0:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._37G2qrltxzlm9AF8lbdJX0:focus,
+        ._37G2qrltxzlm9AF8lbdJX0:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+@media(min-width: 769px) {
+    ._37G2qrltxzlm9AF8lbdJX0 {
+        margin: 0 0 10px auto
+    }
+					}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1GSl9_FCmijGS0K-Mu46rC {
+    max-width: 1024px;
+    margin: 0 auto;
+    -ms-overflow-y: hidden;
+}
+.ltBTH7QayEVVQ87QvsIjm { 
+  transform: translateY(40px);
+}
+._31OWbiGm705HyHiL1rvUaz {  
+  transform: translateY(0);
+  transition: transform 200ms ease-out, opacity 200ms ease-out;
+}
+._28n9-VnY3S71Mj7fexh6x1 {
+    transition: transform 200ms ease-out, opacity 200ms ease-out;
+    transform: translateX(-100%);
+}
+._2Pd7Ga3WEc_HhbeY1vO5zj {
+    transform: translateX(0);
+}
+._1uTNLCJJ7eO4PC7r0rik5O {
+    transition: transform 200ms ease-out, opacity 200ms ease-out;
+    transform: translateX(0);
+    position: absolute;
+}
+._2es-c3rzt9C4xkKyXiq6SR {
+    transform: translateX(100%);
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._28wUaiv4TtMxl-pk3jAN53 {
+    margin: 10px 0;
+}
+._1jgnXrb6seQZ5U-UYr-1gk {
+    line-height: 2rem;
+    color: #9d9d9d;
+    margin-bottom: 20px
+}
+@media(min-width: 1025px) {
+    ._1jgnXrb6seQZ5U-UYr-1gk {
+        font-size: 1.8rem;
+    }
+    }
+.Dpf0GJQIzdXvu0fi_aPpM {
+    font-size: 1.6rem;
+    line-height: 2.5rem
+}
+@media(min-width: 1025px) {
+    .Dpf0GJQIzdXvu0fi_aPpM {
+        font-size: 1.8rem;
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1Ag0JB6a9Afkw-P83uG9Js {
+    width: 100%;
+    height: 100%;
+}
+._1jaM79SUTLEhMEbFL3cMG5 {
+    width: 40px;
+    height: 40px;
+    fill: #1c3f94;
+    margin: -20px 0 0 -20px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._19A5BkJevJ8HqKf1QXUp9e {
+    border-top: 1px solid #dddddd;
+    padding: 5px;
+    margin: 0 -20px;
+    margin-top: 25px;
+    text-align: center
+}
+@media (min-width: 769px) {
+    ._19A5BkJevJ8HqKf1QXUp9e {
+        margin: 0 -40px
+    }
+    }
+.c20zsxwwZnEuUhZ2W9QrY {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: center;
+        align-items: center;
+}
+.Hmcbyv5yJlv-Iay7ir4Zo {
+    display: inline-block;
+    margin-right: 10px;
+}
+._1nd7lmY4GlAUCLIxATO0-r {
+    width: 24px;
+    height: 24px;
+    fill: #298eb9;
+}
+.cagAzbV5FaOcAI8kISMeC {
+    margin-top: 5px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.lUfey7CbUkijXbw899f3P {
+	display: -ms-flexbox;
+	display: flex;
+}
+.DjASBUkeu3Q-ufYQwxV_g {
+}
+.DjASBUkeu3Q-ufYQwxV_g .UVhn30YgQCLQtuUtbr2Kc, .DjASBUkeu3Q-ufYQwxV_g ._3mHnQz4mIRVwakDiTbz3sF {
+    color: #e6ee9c;
+}
+.DjASBUkeu3Q-ufYQwxV_g .yV1Evmp7vYo2mtC5Okr8d {
+    background-color: #e6ee9c;
+}
+.tqSmOkV_gSmGulSgLPVv4 {
+}
+.tqSmOkV_gSmGulSgLPVv4 .UVhn30YgQCLQtuUtbr2Kc, .tqSmOkV_gSmGulSgLPVv4 ._3mHnQz4mIRVwakDiTbz3sF {
+    color: #aed581;
+}
+.tqSmOkV_gSmGulSgLPVv4 .yV1Evmp7vYo2mtC5Okr8d {
+    background-color: #aed581;
+}
+.xlYv1UoEEwplur2b9TmGt {
+}
+.xlYv1UoEEwplur2b9TmGt .UVhn30YgQCLQtuUtbr2Kc, .xlYv1UoEEwplur2b9TmGt ._3mHnQz4mIRVwakDiTbz3sF {
+    color: #ffcc80;
+}
+.xlYv1UoEEwplur2b9TmGt .yV1Evmp7vYo2mtC5Okr8d {
+    background-color: #ffcc80;
+}
+._37l1Gs_YcH00gzEJSTipdX {
+}
+._37l1Gs_YcH00gzEJSTipdX .UVhn30YgQCLQtuUtbr2Kc, ._37l1Gs_YcH00gzEJSTipdX ._3mHnQz4mIRVwakDiTbz3sF {
+    color: #ff8a65;
+}
+._37l1Gs_YcH00gzEJSTipdX .yV1Evmp7vYo2mtC5Okr8d {
+    background-color: #ff8a65;
+}
+._3mHnQz4mIRVwakDiTbz3sF {
+	font-size: 1.4rem;
+	font-weight: 600;
+    color: #ffe082
+}
+@media(min-width: 769px) {
+    ._3mHnQz4mIRVwakDiTbz3sF {
+        font-size: 1.8rem;
+    }
+	}
+._2-Y_LBZYtY2vgbsCjwvWb1 {
+	min-width: 68px;
+	height: 68px;
+	background-color: #dddddd;
+	border-radius: 50%
+}
+@media(min-width: 769px) {
+    ._2-Y_LBZYtY2vgbsCjwvWb1 {
+        min-width: 92px;
+        height: 92px;
+    }
+	}
+._13R3hmwG13CUZ1o3hFstNo,
+._2GidFRViidSP9wyR0KdSqe {
+    visibility: hidden;
+    transition:visibility 500ms ease-out;
+    transition-delay: 1s;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	    flex-direction: column;
+	-ms-flex-pack: center;
+	    justify-content: center;
+	/* align horizontal */
+	-ms-flex-align: center;
+	    align-items: center;
+	/* align vertical */
+	position: absolute;
+	top: 75%;
+	right: 0px;
+	border-radius: 50%;
+	width: 22px;
+	height: 22px;
+	border: 1px solid #aed581;
+	background-color: #fff;
+    transition: border-color 1s ease-in
+}
+@media(min-width: 769px) {
+    ._13R3hmwG13CUZ1o3hFstNo,
+._2GidFRViidSP9wyR0KdSqe {
+        width: 30px;
+        height: 30px;
+    }
+	}
+._2GidFRViidSP9wyR0KdSqe {
+    visibility: visible;
+}
+._3pCfk6nVqJa7cT4ExaViHf {
+	width: 13px;
+	height: 13px;
+	fill: #aed581
+}
+@media(min-width: 769px) {
+    ._3pCfk6nVqJa7cT4ExaViHf {
+        width: 18px;
+        height: 18px;
+    }
+	}
+._4DlHyS-WO8vAxidIa1sPN, .yV1Evmp7vYo2mtC5Okr8d {
+    border-radius: 50%;
+	width: 68px;
+	height: 68px;
+	position: absolute
+}
+@media(min-width: 769px) {
+    ._4DlHyS-WO8vAxidIa1sPN, .yV1Evmp7vYo2mtC5Okr8d {
+        width: 92px;
+        height: 92px;
+    }
+	}
+._4DlHyS-WO8vAxidIa1sPN, .yV1Evmp7vYo2mtC5Okr8d {
+	-webkit-backface-visibility: hidden;
+	        backface-visibility: hidden;
+	transition: transform 1s ease-out;
+}
+._4DlHyS-WO8vAxidIa1sPN {
+  	clip: rect(0px, 68px, 68px, 34px);
+	overflow: hidden
+}
+@media(min-width: 769px) {
+    ._4DlHyS-WO8vAxidIa1sPN {
+        clip: rect(0px, 92px, 92px, 46px);
+    }
+	}
+.yV1Evmp7vYo2mtC5Okr8d {
+	clip: rect(0px, 34px, 68px, 0px);
+	background-color: #ffe082
+}
+@media(min-width: 769px) {
+    .yV1Evmp7vYo2mtC5Okr8d {
+        clip: rect(0px, 46px, 92px, 0px);
+    }
+	}
+/* This is where the calculation for loop in less css from SEEK AU come from, temporary solution is to calculate the deg in the js file by setting the style  */
+/*.mask.full, .fill {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.fix {
+  -webkit-transform: rotate(calc(90deg * 2));
+  -ms-transform: rotate(calc(90deg * 2));
+  transform: rotate(calc(90deg * 2));
+}*/
+.uWJZw-YU5sRsrgE0aan8J {
+	width: 56px;
+	height: 56px;
+	position: absolute;
+	margin-left: 6px;
+	margin-top: 6px;
+	background-color: #fff;
+	border-radius: 50%
+}
+@media(min-width: 769px) {
+    .uWJZw-YU5sRsrgE0aan8J {
+        width: 78px;
+        height: 78px;
+        margin-left: 7px;
+        margin-top: 7px;
+    }
+	}
+._1N6d8tQPRFAJCPn6WT2Ygs {
+	overflow: hidden;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.UVhn30YgQCLQtuUtbr2Kc {
+	text-align: center;
+	font-weight: 400;
+	color: #aed581;
+	/*Temporary hack: Chrome had trouble rendering multiple elements when zooming (causing other elements on the page to disappear or be cropped).
+	The problem was traced to the vertical alignment being applied to this element. The TranslateZ(0) is a hack used to engage the GPU which helps with rendering.*/
+	-webkit-transform: translateZ(0)
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1TR_bsd_4pGtOMiol7T-D0,
+._3EyvQ2berR2sw8g9DQ-FLC {
+    width: 100%;
+}
+._3EyvQ2berR2sw8g9DQ-FLC {
+}
+._3EyvQ2berR2sw8g9DQ-FLC ._3WCUrPpVmTVVz-vBtNNKGi {
+    background: #dddddd;
+}
+._3k-2nwR0COTYKdkkqYlrYm {
+        display: -ms-flexbox;
+        display: flex;
+        margin-bottom: 2px;
+    }
+._2u78sdWHxeb5G_Fj878yGw {
+            font-size: 1.2rem;
+            line-height: 15px;
+            font-weight: 600;
+        }
+._1rDmOtYFpBL_Zc4h-LkZX4 {
+            -ms-flex-positive: 1;
+                flex-grow: 1;
+            display: -ms-flexbox;
+            display: flex;
+            margin-right: 20px;
+        }
+._3WCUrPpVmTVVz-vBtNNKGi {
+                min-width: 5px;
+                border-radius: 3px;
+                position:relative;
+                height: 15px;
+                transition: background-color 250ms ease-out, width 1s ease-out;
+            }
+._1TsPLRbgfgmcJqor9wLPCC {
+                    position:absolute;
+                    left: 100%;
+                    margin-left: 3px;
+                    line-height: 16px;
+                    color: #333;
+                    font-size: 1.2rem;
+                }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._326xBxV14eXfOgf_5foH9S {
+    background: #fff;
+    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    padding: 20px 20px;
+    padding-top: 25px;
+    padding-bottom: 0;
+    overflow: hidden
+}
+@media(min-width: 769px) {
+    ._326xBxV14eXfOgf_5foH9S {
+        padding-right: 40px;
+        padding-left: 40px
+    }
+}
+@media(min-width: 769px) {
+    ._326xBxV14eXfOgf_5foH9S {
+        padding-top: 20px
+    }
+    }
+._3cLzCQket-ezhQE3m_1pAJ {
+    font-size: 1.4rem;
+    margin-bottom: 40px;
+    line-height: 2rem;
+    text-align: center
+}
+@media(min-width: 769px) {
+    ._3cLzCQket-ezhQE3m_1pAJ {
+        text-align: left;
+        font-size: 2rem
+    }
+    }
+._1W0GmVqN2A16NJwgNn9j1E {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._1W0GmVqN2A16NJwgNn9j1E {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        padding: 0
+    }
+    }
+._rOiG4GhMEpzVhAdfLKS5,
+._3zmjge-wKUUqeooOgUxBpw {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+        flex-direction: row;
+    -ms-flex-pack: justify;
+        justify-content: space-between
+}
+@media(min-width: 769px) {
+    ._rOiG4GhMEpzVhAdfLKS5,
+._3zmjge-wKUUqeooOgUxBpw {
+        width: 43%
+    }
+    }
+._3zmjge-wKUUqeooOgUxBpw {
+}
+@media(min-width: 769px) {
+    ._3zmjge-wKUUqeooOgUxBpw {
+        width: 48%
+    }
+    }
+.Rj5QfFL9jveqoIcYMNu5S {
+    margin: 28px 10px 38px;
+    height: 1px;
+    border:none;
+    background: #dddddd
+}
+@media(min-width: 769px) {
+    .Rj5QfFL9jveqoIcYMNu5S {
+        display: none
+    }
+    }
+.j9tqs4YuZMzVKuSJ2eIme {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.8rem;
+    font-size: 1.4rem
+}
+@media(min-width: 769px) {
+    .j9tqs4YuZMzVKuSJ2eIme {
+        font-size: 2rem
+    }
+    }
+.S8NBJB2DJ_wJbVd-oeMQD {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: center;
+        align-items: center;
+    margin: 0 10px 0 0;
+}
+._3MZcqafEYKDuu35wxAsTSR {
+    min-width: 140px;
+    min-height: 100px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    width: 100%;
+}
+.fNH2GcDpHsBM3kEzn2IQZ {
+    font-size: 4.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.iYdNuCNH49FceA1EjYS8e {
+    margin-bottom: 10px;
+    display: -ms-flexbox;
+    display: flex
+}
+.iYdNuCNH49FceA1EjYS8e svg {
+    margin-right: 2px;
+    width: 18px;
+    height: 18px
+}
+._2ydf5IK2FTepQKTCXTSMAQ {
+    height: 20px;
+    width: 20px;
+    margin-right: 3px;
+}
+._36GTxkxligFJIYY1PMvzhX {
+    max-width: 240px;
+    -ms-flex: 0 0 45%;
+        flex: 0 0 45%;
+}
+.ju3IjefLZFsgm0vxYrF1L {
+    width: 42%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: center;
+        align-items: center;
+}
+.C8i71HNG3lI71pVo5QNLf {
+    width: 50px;
+    margin:0 5px 6px 0;
+    text-align: right;
+    display: inline-block;
+}
+._2jXGl-oBuehQsS1TCEx3I0 {
+    min-height: 50px;
+    margin-top: 10px;
+    padding: 0 10px;
+    text-align: center;
+    line-height: 1.8rem;
+    font-size: 1.2rem;
+    max-width: 100%
+}
+@media(min-width: 769px) {
+    ._2jXGl-oBuehQsS1TCEx3I0 {
+        min-height: 3.6rem;
+        font-size: 1.4rem
+    }
+    }
+._3ZoPtDCpiav0DR1CrycZOx {
+    font-weight: bold;
+}
+.MmiF6gwhWsWq5W3RLEak4 {
+    width: 48%;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-line-pack: justify;
+        align-content: space-between;
+}
+.c7ks_tIev7eG9jr6_DNEv {
+    background-color: #aed581;
+}
+._3A4yx3C8tHd2M3jEIVhUCB {
+    background-color: #e6ee9c;
+}
+._1H7dqQjVsMRxEsSRpPv4EE {
+    background-color: #ffe082;
+}
+._1w0z6RooXae54oGrW3Nmmq {
+    background-color: #ffcc80;
+}
+._3Ah-mlmQoEzkN6jiZqTbLx {
+    background-color: #ff8a65;
+}
+._3GjsVYLQHOiq_GYW53EFw2 {
+    font-weight: 600;
+    width: auto;
+}
+._9HWSpUTX-W__2LaJLGp1x {
+    padding: 0 1px;
+}
+._2ydf5IK2FTepQKTCXTSMAQ {
+    height: 13px;
+    width: 13px;
+    fill: #058b32;
+}
+._1snDVDb6vCGOqoePPhKd2_ {
+    border-top: 1px solid #dddddd;
+}
+._1H8iyuUXYNeqAg32bjcbjT {
+    margin: 0 auto;
+    max-width: 660px;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._1H8iyuUXYNeqAg32bjcbjT {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        padding: 0
+    }
+    }
+._1GV4IydIDpfqkrAA5d5M3V {
+    margin-top: 30px;
+    margin-bottom: 0
+}
+@media(min-width: 769px) {
+    ._1GV4IydIDpfqkrAA5d5M3V {
+        width: 27%
+    }
+    }
+.GYe3c0-TWWfzWvjKRX-Xv {
+    margin-bottom: 20px;
+    line-height: 1.8rem;
+    font-size: 1.4rem;
+    text-align: center;
+}
+/* preloader css styles */
+._3rLM3njgBgQoqBM7GLuHvz {
+    position:absolute;
+    left: 100%;
+    margin-left: 3px;
+    line-height: 16px;
+    color: #333;
+    font-size: 1.2rem;
+}
+._1phlW1sBJjgGCFNt8dqUoh {
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 2px;
+}
+._3SrqW2cODREDJIq52Hi54R {
+    font-size: 1.2rem;
+    line-height: 15px;
+    font-weight: 600;
+}
+._3os-8U_Z8FsxQhsLONmz_H {
+    -ms-flex-positive: 1;
+        flex-grow: 1;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 20px;
+}
+._38K-UYm80Tm_tYzhug_OXW {
+    min-width: 5px;
+    border-radius: 3px;
+    position:relative;
+    height: 15px;
+    background-color: #ffe082;
+    width: 100%;
+}
+._38K-UYm80Tm_tYzhug_OXW:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._20taK-0NDqYB4va6mYtlvT{
+    max-width: 480px;
+    height: 20px;
+    
+}
+._20taK-0NDqYB4va6mYtlvT:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._2CKyV_Q_c_pUwDtG5Y8lUs{
+    width: 50px;
+    height: 45px;
+    padding-bottom: 10px;
+}
+._2CKyV_Q_c_pUwDtG5Y8lUs:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._1tv4blirws1S41rrhlVi7k{
+    width: 100%;
+    height: 20px;
+}
+._1tv4blirws1S41rrhlVi7k:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._3A_IB8xB0a4JzMhmprfwhA{
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    width: 100%;
+}
+._1IG8yZRCiCeMuKxlsdGr6H{
+    width: 90%;
+    height: 20px;
+    margin-top: 5px;
+}
+._1IG8yZRCiCeMuKxlsdGr6H:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._1M3dl9tSEXF-L83g8T0npB{
+    width: 70%;
+    height: 20px;
+    margin-top: 5px;
+}
+._1M3dl9tSEXF-L83g8T0npB:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+._2_28jp8AYAhPuB2TxiD8PD {
+    width: 100%;
+}
+._1DuGr0KZlqLj46-sk7ZIHh {	
+	min-width: 68px;
+	height: 68px;
+	background-color: #dddddd;
+	border-radius: 50%
+}
+@media(min-width: 769px) {
+    ._1DuGr0KZlqLj46-sk7ZIHh {
+        min-width: 92px;
+        height: 92px
+    }
+	}
+._2yFRsgWEsKJ2WCypH-Mvcl {
+	width: 56px;
+	height: 56px;
+	position: absolute;
+	margin-left: 6px;
+	margin-top: 6px;
+	background-color: #fff;
+	border-radius: 50%
+}
+@media(min-width: 769px) {
+    ._2yFRsgWEsKJ2WCypH-Mvcl {
+        width: 78px;
+        height: 78px;
+        margin-left: 7px;
+        margin-top: 7px
+    }
+	}
+._16BtrbqxkcLbw3XOuT9JVR {
+	overflow: hidden;
+	position: relative;
+	top: 50%;
+    transform: translateY(-50%);
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    width: 100%;
+}
+._3619mrX7abgEoDNL2531_E {
+	text-align: center;
+	font-weight: 400;
+	color: #aed581;
+	/*Temporary hack: Chrome had trouble rendering multiple elements when zooming (causing other elements on the page to disappear or be cropped).
+	The problem was traced to the vertical alignment being applied to this element. The TranslateZ(0) is a hack used to engage the GPU which helps with rendering.*/
+    -webkit-transform: translateZ(0);
+    height: 20px;
+    width: 40%;
+}
+._3619mrX7abgEoDNL2531_E:after {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: _11HtGqGoXfI8bwwWesokBj;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    position: relative;
+    height: 100%;
+    display: block;
+    content: ''
+}
+/* 'preloadAnimation' will be used by '--animated-background' and it is stored in blockHelpers.css */
+@keyframes _11HtGqGoXfI8bwwWesokBj{
+    0%{
+        background-position: -468px 0
+    }
+    100%{
+        background-position: 468px 0
+    }
+}
+/* preloader css styles ends here */:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1q0EDbfl1mnYdPoXCdsyRK {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+._2LoCAVL8IVZevlsG1fXG0t {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+}
+._3j2s3VIWCokQ7tuwBuztdB {
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: auto;
+    overflow-Y: hidden;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    padding-right:0;
+    transition: left 125ms ease-out;
+}
+._1NJBM_ZjsdcoTDYmsKGG8u,
+._1ujHRRVB61Td4t4jD6mL_f {
+    text-align:left;
+    border: none;
+    display: block;
+    position: absolute;
+    top:0;
+    left:0;
+    width:50%;
+    height: 100%;
+    z-index: 10;
+    cursor: pointer;
+    outline: none
+}
+._1NJBM_ZjsdcoTDYmsKGG8u svg, ._1ujHRRVB61Td4t4jD6mL_f svg {
+    zoom: 120%;
+    fill: #fff;
+}
+._1NJBM_ZjsdcoTDYmsKGG8u {
+    background: linear-gradient(270deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, .2) 100%)
+
+}
+._1ujHRRVB61Td4t4jD6mL_f {
+    left: auto;
+    right: 0;
+    text-align:right;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, .2) 100%);
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.sxGUOzVtjY2ExDIGVZqJJ,
+._2mHIIpP1a9OBEFqloP2yvX {
+    background: #fff;
+    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    padding: 20px 20px;
+}
+@media(min-width: 769px) {
+    .sxGUOzVtjY2ExDIGVZqJJ,
+._2mHIIpP1a9OBEFqloP2yvX {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+.sxGUOzVtjY2ExDIGVZqJJ {
+    position: relative;
+}
+.sxGUOzVtjY2ExDIGVZqJJ:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .3);
+    cursor: wait;
+}
+._2Uq4jx5eATCY5WX4Gcz_yU {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._2Uq4jx5eATCY5WX4Gcz_yU {
+        margin-bottom: 30px;
+    }
+    }
+.XLt9wCTYhUrFWntndIAhx {
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin: 0 -20px 20px -20px;
+    padding-left: 20px
+}
+@media(min-width: 769px) {
+    .XLt9wCTYhUrFWntndIAhx {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+        overflow-x: hidden;
+        margin: 0 0 20px 0;
+        padding: 0;
+    }
+    }
+._2YumcEdt-XuhoIcUUnj19n {
+        position: relative;
+        display: inline-block;
+        vertical-align: top;
+        padding: 0;
+        width: 85%;
+        max-width: 340px;
+        margin-right: 10px;
+        border: 1px solid #dddddd;
+        margin-bottom: 15px;
+        background-color: #fff
+    }
+@media(min-width: 769px) {
+    ._2YumcEdt-XuhoIcUUnj19n {
+        width: 23%;
+        margin-bottom: 20px;
+        margin-right: 2%;
+    }
+    ._2YumcEdt-XuhoIcUUnj19n:nth-child(4n) {
+        margin-right: 0;
+    }
+        }:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3DJSS6Nql-oVTOe635vJjC {
+    display: inline-block;
+    margin:0 5px 5px 0
+}
+@media(min-width: 769px) {
+    ._3DJSS6Nql-oVTOe635vJjC {
+        margin: 0 10px 10px 0
+    }
+    }
+._1e13UWGvhHbqJyRC3Je-PL {
+    display:none
+}
+._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none
+}
+@media(min-width: 769px) {
+    ._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7:focus,
+        ._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+@media(min-width: 769px) {
+    ._1e13UWGvhHbqJyRC3Je-PL:checked + .N2botEw0nVPh96q_x0-M7 {
+        padding-left: 10px;
+        padding-right: 10px
+    }
+}
+.N2botEw0nVPh96q_x0-M7 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none
+}
+@media(min-width: 769px) {
+    .N2botEw0nVPh96q_x0-M7 {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+.N2botEw0nVPh96q_x0-M7:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+.N2botEw0nVPh96q_x0-M7:focus,
+        .N2botEw0nVPh96q_x0-M7:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+@media(min-width: 769px) {
+    .N2botEw0nVPh96q_x0-M7 {
+        padding-left: 13px;
+        padding-right: 13px
+    }
+    }
+._3DJSS6Nql-oVTOe635vJjC {}
+._2cLDooJ34n5iGIqN6NJVUs {
+    border:none;
+    background:none;
+    color: #298eb9;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3J5hQBOP5w642rohkvRUsE,
+._3Ci2JkKxBS2VV0A-3hAkBu {
+    background: #fff;
+    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    padding: 20px 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+@media(min-width: 769px) {
+    ._3J5hQBOP5w642rohkvRUsE,
+._3Ci2JkKxBS2VV0A-3hAkBu {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+._3Ci2JkKxBS2VV0A-3hAkBu {
+    position: relative;
+}
+._3Ci2JkKxBS2VV0A-3hAkBu:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .3);
+    cursor: wait;
+}
+._1sXhS6LnDfysk8krA8KS3p {
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    padding: 0 20px 20px 20px;
+    border-bottom: 1px solid #9d9d9d
+}
+@media(min-width: 769px) {
+    ._1sXhS6LnDfysk8krA8KS3p {
+        display: -ms-flexbox;
+        display: flex;
+        border-bottom: 0;
+        padding: 0 0 20px 0;
+    }
+    }
+._3DmpcxbLoJ0NaD72io6uuH {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    line-height: 2.3rem
+}
+._3DmpcxbLoJ0NaD72io6uuH strong {
+    font-weight: 600;
+}
+._1VqiIYC8hZcQXoKBR2Nj9O {
+    display:-ms-flexbox;
+    display:flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex:0 0 auto;
+        flex:0 0 auto;
+}
+.XoTjeu6rc6zQafCo-zlHX {
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+        display: inline-block;
+        margin-right:5px;
+    }
+._2gSy6zuW0uNJQb2Xf3pRmm {
+    margin-bottom: 10px;
+    margin-left: 20px
+}
+@media(min-width: 769px) {
+    ._2gSy6zuW0uNJQb2Xf3pRmm {
+        margin-left: 0;
+    }
+    }
+._1xVV_zk-VoiBbd0yQoTz4K {
+    margin-bottom: 30px
+}
+@media(min-width: 769px) {
+    ._1xVV_zk-VoiBbd0yQoTz4K {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    }
+    }
+._2JOCMbIvTEzxe0XJuE_D_I {
+    -ms-flex: 1 1 50%;
+        flex: 1 1 50%;
+}
+._2SESWukbHH4A1S2Cqn_8yX {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    margin-bottom: 30px;
+}
+._1B5lr1vNgi9hr3dmUF26wq {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    width: 90%
+}
+@media(min-width: 769px) {
+    ._1B5lr1vNgi9hr3dmUF26wq {
+        font-size: 1.4rem;
+        padding: 6px 20px;
+    }
+}
+._1B5lr1vNgi9hr3dmUF26wq:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95);
+}
+._1B5lr1vNgi9hr3dmUF26wq:focus,
+        ._1B5lr1vNgi9hr3dmUF26wq:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none;
+}
+@media (min-width: 769px) {
+    ._1B5lr1vNgi9hr3dmUF26wq {
+        width: 40%;
+    }
+    }
+._1B5lr1vNgi9hr3dmUF26wq strong {
+    font-weight: 600;
+}
+._3-Nkkl25wFcZyuSywp1d7u {
+    line-height: 2rem;
+    margin-bottom: 20px;
+    padding: 0 20px
+}
+@media(min-width: 769px) {
+    ._3-Nkkl25wFcZyuSywp1d7u {
+        padding: 0;
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3H2buYjKO9pj5zVG0ooSbz {
+    display: inline-block;
+    position: relative
+}
+._3H2buYjKO9pj5zVG0ooSbz:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer
+}
+._1yZRZz3zQiB-RONyp1H3gg {
+    margin: 0 6px;
+    width: 40px;
+    height: 40px
+}
+@media(min-width: 769px) {
+    ._1yZRZz3zQiB-RONyp1H3gg {
+        margin: 0 3px;
+        width: 20px;
+        height: 20px
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3DuraHl2uLhElViFDUusII {
+    position: relative;
+    padding: 40px 20px;
+    background-color: #ddf1fA
+}
+@media(min-width: 769px) {
+    ._3DuraHl2uLhElViFDUusII {
+        padding: 40px 40px
+    }
+    }
+._3F8347MTZfpYiYaa609ECT {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-align: start;
+            align-items: flex-start;
+        max-width: 740px
+    }
+@media(min-width: 769px) {
+    ._3F8347MTZfpYiYaa609ECT {
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        margin: 0 auto
+    }
+        }
+._3vskKXOaPLcpLdfywVfmmI {
+            margin-right: 10px;
+            -ms-flex:0 0 auto;
+                flex:0 0 auto;
+            margin-right: 20px;
+            max-width: 130px;
+            height: 70px;
+        }
+._2O6Jt54S4ZR5kfNohpT_lP {
+            -ms-flex:1;
+                flex:1
+        }
+@media(min-width: 769px) {
+    ._2O6Jt54S4ZR5kfNohpT_lP {
+        max-width: 310px;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+        margin-right: 20px
+    }
+            }
+._353nopn2ucvHnchgQajxzB {
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.8rem;
+                margin-bottom: 10px
+            }
+@media(min-width: 769px) {
+    ._353nopn2ucvHnchgQajxzB {
+        font-size: 1.8rem
+    }
+                }
+._3h3VD2pdRNZV9LCn8b9DQI {
+                line-height: 2.2rem;
+            }
+._2vhrk6GC6gqu3T8R_98Lck {
+            width: 100%;
+            margin-top: 30px;
+            text-align: center
+        }
+@media(min-width: 769px) {
+    ._2vhrk6GC6gqu3T8R_98Lck {
+        text-align: left;
+        width: 160px;
+        margin: 0
+    }
+            }
+._3I5WmTkNQmHPSpMIBjqqbL {
+                font-size: 2.4rem;
+                color: #333;
+                font-weight: 600;
+                margin-bottom: 10px;
+                font-weight: 400;
+                font-size: 2rem;
+                letter-spacing: 0.5px;
+                margin-bottom: 10px
+            }
+@media(min-width: 769px) {
+    ._3I5WmTkNQmHPSpMIBjqqbL {
+        font-size: 1.8rem
+    }
+                }
+.q1JcILsv2t9wwGn0UCNJA {
+            position: absolute;
+            top:15px;
+            right: 20px;
+            padding:0;
+            border:none;
+            background:none;
+            color: #298eb9;
+            cursor: pointer
+        }
+@media(min-width: 769px) {
+    .q1JcILsv2t9wwGn0UCNJA {
+        top: 10px;
+        right: 10px
+    }
+            }
+@media(min-width: 1025px) {
+    .q1JcILsv2t9wwGn0UCNJA {
+        top: 15px;
+        right: 20px
+    }
+            }
+.q1JcILsv2t9wwGn0UCNJA:hover,
+            .q1JcILsv2t9wwGn0UCNJA:focus {
+    cursor: pointer
+}
+.q1JcILsv2t9wwGn0UCNJA:hover svg, .q1JcILsv2t9wwGn0UCNJA:focus svg {
+    fill: #298eb9
+}
+._1S9JyjPjybFFdsW_DtJUj2 {
+            width: 15px;
+            height: 15px;
+            fill: #9d9d9d;
+            transition: 125ms fill ease-in;
+        }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2zSWd7f7_N9P4twQu0DfL_ {
+    cursor: pointer;
+    padding: 20px 15px;
+    margin-bottom: 15px;
+    border: 1px solid #dddddd;
+    position: relative;
+    min-height: 180px
+}
+@media(min-width: 769px) {
+    ._2zSWd7f7_N9P4twQu0DfL_ {
+        margin-bottom: 20px
+    }
+    }
+._18CMOy9ZZmzV8qXTBVWhyS {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: 10
+}
+._18CMOy9ZZmzV8qXTBVWhyS:hover,
+    ._18CMOy9ZZmzV8qXTBVWhyS:focus {
+        }
+._18CMOy9ZZmzV8qXTBVWhyS:hover + ._21R3L-pxD9-tEjXzRgNOW- ._1b3DbTalsdrbRwaEI3wi36, ._18CMOy9ZZmzV8qXTBVWhyS:focus + ._21R3L-pxD9-tEjXzRgNOW- ._1b3DbTalsdrbRwaEI3wi36 {
+    color: #12688c
+}
+._21R3L-pxD9-tEjXzRgNOW- {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+        flex-direction: row;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-align: center;
+        align-items: center;
+    margin-bottom: 10px;
+}
+._1b3DbTalsdrbRwaEI3wi36 {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        display: inline-block;
+        padding: 1px 0;
+        /* This is a temporary to fix some of the word like 'g', 'p', 'y' is now showing the lower part due to overflow */
+        color: #298eb9;
+        font-size: 1.8rem;
+        font-weight: 600;
+        max-height: 4rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+._1OeG1WxdIk0bQ8zjpZsE7O {
+        cursor: pointer;
+        -ms-flex: 0 0 10%;
+            flex: 0 0 10%;
+        padding: 5px;
+        text-align: right;
+    }
+._1YUX57-PAVyAqOmIWGwOAj {
+        }
+._1K8ehivd3RrKK_tfnKcXpQ {
+            fill: #298eb9;
+        }
+._2_bexw8Zvsb-oBL5k0hYWO {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    display: inline-block;
+    padding: 1px 0;
+    /* This is a temporary to fix some of the word like 'g', 'p', 'y' is now showing the lower part due to overflow */
+    color: #9d9d9d;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+._3_IZlG0R7IeQKKRrc25TJm {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+            align-items: center;
+        margin-bottom: 10px
+    }
+._3_IZlG0R7IeQKKRrc25TJm:last-child {
+    margin-bottom: 0
+}
+._2FMP6IJ_4CXA_Ay2Jy2XcU {
+            margin-right: 10px;
+        }
+._2dKnu6JDJMXwfe5gtyuZ4H {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+            display: inline-block;
+            padding: 1px 0;
+            /* This is a temporary to fix some of the word like 'g', 'p', 'y' is now showing the lower part due to overflow */
+        }
+.fj321W6Qc5DdKhQPZ5C-O {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+            display: inline-block;
+            padding: 1px 0;
+            /* This is a temporary to fix some of the word like 'g', 'p', 'y' is now showing the lower part due to overflow */
+            padding: 3px;
+            z-index: 10;
+        }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.eGzBAQDz7Fq7olnOv4cuF {
+    max-width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+._3j0oust7GEefsfalgYFamr {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.6rem;
+    color: #9d9d9d;
+    margin-bottom: 10px;
+}
+._3evuJqcEGgB2gr6rgJzery,
+    ._1RxZEOTIype-moA-oBDrcF {
+        background: #fff;
+        box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+        margin-bottom: 10px;
+        padding: 20px 20px;
+    }
+@media(min-width: 769px) {
+    ._3evuJqcEGgB2gr6rgJzery,
+    ._1RxZEOTIype-moA-oBDrcF {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+._3evuJqcEGgB2gr6rgJzery {
+        position: relative;
+    }
+._3evuJqcEGgB2gr6rgJzery:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .3);
+    cursor: wait;
+}
+._1t12_dPQFkGjnix-HTgqna {
+        max-width: 100%;
+        margin-bottom: 10px;
+        max-height: 178px;
+        overflow:hidden;
+        background-color: #fff;
+        background-size: cover
+    }
+@media (min-width: 1025px) {
+    ._1t12_dPQFkGjnix-HTgqna {
+        -ms-flex: 1 auto;
+            flex: 1 auto;
+        margin-right: 10px;
+        min-height: 180px;
+    }
+        }
+._1t12_dPQFkGjnix-HTgqna img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    overflow: hidden;
+}
+@media(min-width: 1025px) {
+    ._1t12_dPQFkGjnix-HTgqna img {
+        display: none;
+    }
+}
+._2eMKBmoYl729-ArN0z7_b8 {
+        font-size: 2.4rem;
+        color: #333;
+        font-weight: 600;
+        margin-bottom: 10px;
+        font-weight: 400;
+        font-size: 2rem;
+        letter-spacing: 0.5px;
+        margin-bottom: 20px
+    }
+@media(min-width: 769px) {
+    ._2eMKBmoYl729-ArN0z7_b8 {
+        margin-bottom: 30px;
+    }
+        }
+._1IMdRlqiUkqQKGfNraCJMS {
+        margin-left: 10px;
+        display: inline-block;
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        margin:0;
+    }
+._1VBSqtP4zA2yuaZlFQOv5s {
+        line-height: 2.1rem;
+        font-size: 1.4rem;
+        color: #333;
+        margin-bottom: 50px;
+    }
+._1OKepjoBMV0Ck79__i6Tw2 {
+        font-size: 2.4rem;
+        color: #333;
+        font-weight: 600;
+        margin-bottom: 10px;
+        font-weight: 400;
+        font-size: 2rem;
+        letter-spacing: 0.5px;
+        margin-bottom: 20px
+    }
+@media(min-width: 769px) {
+    ._1OKepjoBMV0Ck79__i6Tw2 {
+        display: none;
+    }
+        }
+._3ey2PvH1n25hsfyhzQPlKF {
+        font-size: 2.4rem;
+        color: #333;
+        font-weight: 600;
+        margin-bottom: 10px;
+        color: #333;
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+._91SMfv8cuAdXd2qAdd0Rd {
+        margin: 0 -20px 20px
+    }
+@media(min-width: 1025px) {
+    ._91SMfv8cuAdXd2qAdd0Rd {
+        margin: 0;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    }
+        }
+.OTlYw6FpGWh-6I7juCA_H {
+        margin: 0 -20px 20px
+    }
+@media(min-width: 769px) {
+    .OTlYw6FpGWh-6I7juCA_H {
+        margin-left: 0;
+        margin-right: 0;
+    }
+        }
+._37yQNGZQgoQ45CwDB9XL1A {
+        position: relative;
+        max-height: calc(35 * (--vr));
+    }
+._1N87oe0Ups8hW19JRwtB3C {
+            display: block;
+            width: 100%;
+            height: auto;
+            position: relative;
+            overflow: hidden;
+            padding: 61.38% 0 0 0
+        }
+@media(min-width: 481px) {
+    ._1N87oe0Ups8hW19JRwtB3C {
+        padding-top: 56.25%;
+    }
+            }
+@media(min-width: 769px) {
+    ._1N87oe0Ups8hW19JRwtB3C {
+        padding-top: 61.38%;
+    }
+            }
+._2QOv5nDoZeXB6QXVl-EjMZ {
+            -ms-flex:0 0 auto;
+                flex:0 0 auto;
+            width: 100%;
+            display: block;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0
+        }
+@media (min-width: 1025px) {
+    ._2QOv5nDoZeXB6QXVl-EjMZ {
+        width: 290px;
+    }
+            }
+._2qVJC5KAWsW4DgiNOtuf2- {
+        margin: 0 0 40px
+    }
+@media(min-width: 1025px) {
+    ._2qVJC5KAWsW4DgiNOtuf2- {
+        width: 290px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+        }
+.Yg6C3g3L-xhyeVw4p5TJj {
+    }
+@media(min-width: 769px) {
+    .Yg6C3g3L-xhyeVw4p5TJj {
+        margin: 20px 0 0 0;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    }
+        }
+._28Kf8BL2y4HvXZOj-dorNO {
+        }
+@media (min-width: 769px) {
+    ._28Kf8BL2y4HvXZOj-dorNO {
+        -ms-flex: 1;
+            flex: 1;
+        -ms-flex-order: 1;
+            order: 1;
+        margin-right: 20px;
+    }
+            }
+._2m4xhUrF_OAoi38R1ZdMJl {
+            margin-bottom: 40px
+        }
+@media (min-width: 769px) {
+    ._2m4xhUrF_OAoi38R1ZdMJl {
+        width: 100%;
+        margin: 60px 0 0;
+        -ms-flex-order: 3;
+            order: 3;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+            }
+.tLym6yVY9nZDzFy00pE51 {
+                display: -ms-flexbox;
+                display: flex;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+                margin-bottom: 20px
+            }
+@media (min-width: 769px) {
+    .tLym6yVY9nZDzFy00pE51 {
+        -ms-flex: 0 1 33%;
+            flex: 0 1 33%;
+    }
+    .tLym6yVY9nZDzFy00pE51:nth-child(3n) {
+        margin-right: 0;
+    }
+                }
+._16RuSqJ2kdAkQw2Rci9BrV{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #87b5c4;
+                }
+._3EIosxrQYFCj0gBmu_XGXK{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #b1deb5;
+                }
+._3Hr8imoyZLziQ8QB2xO9HG{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #3f8dcf;
+                }
+._3FpbWPKBTJ3_OrLJ0lOU0C{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #77cbef;
+                }
+._3_Gphc1H6y9KgaNTAJNNdz{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #b492dc;
+                }
+._5t-p4_MqS2RnGu8OArMzW{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #358bbc;
+                }
+.TuZrijVxajVaYTKPxmVts{
+                    width: 55px;
+                    height: 55px;
+                    -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                    margin: 0 15px 23px 0;
+                    border-radius: 50%;
+                    background: #9d9d9d;
+                    background: #86bcbe;
+                }
+._1egL8mXE5y-uvJnVce_Ch4{
+                     width: 55px;
+                     height: 55px;
+                     -ms-flex: 0 0 auto;
+                         flex: 0 0 auto;
+                     margin: 0 15px 23px 0;
+                     border-radius: 50%;
+                     background: #9d9d9d;
+                    background: #b1b1b1;
+                }
+._3Z_LOJHmDclz5elTmMJwu1{
+                    width: 35px;
+                    margin: 11px;
+                    height: 32px
+                }
+._35t9h5M82kkZn2cNqHnCrY{
+                    width: 33px;
+                    margin: 12px;
+                    height: 30px;
+                }
+._1QmKCaFRjRQWwXKECQble1{
+                    width: 26px;
+                    margin: 15px;
+                    height: 26px;
+                }
+._1qlCWY2bxtwAV57sq3F17P {
+                    -ms-flex:1;
+                        flex:1
+                }
+@media (min-width: 769px) {
+    ._1qlCWY2bxtwAV57sq3F17P {
+        padding-right: 20px;
+    }
+                    }
+._20_RFwflXkbrxAcEmd-yl7 {
+                        text-transform: uppercase;
+                        font-weight: 600;
+                        color: #9d9d9d;
+                        margin-bottom: 5px;
+                        font-size: 1.2rem;
+                    }
+._2VUHEvZBE00PkfHVPj0A5k {
+                        line-height: 2rem;
+                        word-break: break-word;
+                    }
+.r1gHLKfN7vCbDnBPvvF3d{
+                        /* These are technically the same, but use both */
+                        word-wrap: break-word;
+                        word-wrap: break-word;
+                        -ms-word-break: break-all;
+                        /* Instead use this non-standard one: */
+                        word-break: break-word;
+                        /* Adds a hyphen where the word breaks, if supported (No Blink) */
+                        -ms-hyphens: auto;
+                        -webkit-hyphens: auto;
+                        hyphens: auto;
+                    }
+.eDb7Kdmw8FSfrfwxdkNAa {
+            margin-bottom: 20px
+        }
+@media (min-width: 769px) {
+    .eDb7Kdmw8FSfrfwxdkNAa {
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+        max-width: 290px;
+        -ms-flex-order: 2;
+            order: 2;
+    }
+            }
+._2gSgZTrlehxwS1wUYpwCEI {
+            }
+@media (min-width: 769px) {
+    ._2gSgZTrlehxwS1wUYpwCEI {
+        border: 1px solid #dddddd;
+    }
+                }
+._1zOwGCoKotekaTN5P2r17O {
+                    height: 175px;
+                    margin: 0 -20px;
+                    position:relative;
+                    overflow: hidden
+                }
+@media (min-width: 769px) {
+    ._1zOwGCoKotekaTN5P2r17O {
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+        width: 290px;
+        -ms-flex-order: 2;
+            order: 2;
+        border: 1px solid #f7f7f7;
+        margin: 0;
+    }
+                    }
+.QdpSB1er8mDYJe13jyhvP {
+                    font-size: 2.4rem;
+                    color: #333;
+                    font-weight: 600;
+                    margin-bottom: 10px;
+                    color: #333;
+                    font-size: 1.8rem;
+                    margin: 20px 20px 0;
+                    display: none
+                }
+@media (min-width: 769px) {
+    .QdpSB1er8mDYJe13jyhvP {
+        display: block;
+    }
+                    }
+._2_zE37e5e1Xe0tM5ZaYXh- {
+                    display: -ms-flexbox;
+                    display: flex;
+                    margin-top: 15px
+                }
+@media(min-width: 769px) {
+    ._2_zE37e5e1Xe0tM5ZaYXh- {
+        margin-bottom: 20px;
+    }
+                    }
+._10gG_Cpn7VqExwVS79-_hS {
+                        margin-right: 6px;
+                        zoom: 100%;
+                        -ms-flex:0 0 auto;
+                            flex:0 0 auto
+                    }
+@media(min-width: 769px) {
+    ._10gG_Cpn7VqExwVS79-_hS {
+        margin: 0 10px;
+        zoom: 120%;
+    }
+                        }
+._1lv05jMdzM6zpyJ8BdjWYb {
+                        font-size: 1.4rem;
+                        line-height: 2rem;
+                    }
+._1cfmmjy90fq6QVkxLvYvgT {
+        white-space: nowrap;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        margin: 0 -20px 20px -20px;
+        padding-left: 20px
+    }
+@media(min-width: 769px) {
+    ._1cfmmjy90fq6QVkxLvYvgT {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+        overflow-x: hidden;
+        margin: 0 0 20px 0;
+        padding: 0;
+    }
+        }
+._2jdf__BXWXMjnYvNlK5SqF {
+        text-align: center;
+    }
+._1JeQW5z5YO34PipHPTIxCt {
+        border: none;
+        background: none;
+        padding: 0;
+        margin: 0;
+        color: #298eb9;
+        cursor: pointer;
+        text-decoration: none;
+        line-height: 2rem;
+        display: inline-block;
+        text-transform: uppercase;
+        font-weight: 600;
+        padding: 0 10px;
+    }
+._1JeQW5z5YO34PipHPTIxCt:hover,
+        ._1JeQW5z5YO34PipHPTIxCt:focus {
+    color: #12688c;
+}
+._30ZDQxHBBdeXUyxYFXsMMa {
+        display: inline-block;
+        vertical-align: top;
+        width: 85%;
+        max-width: 340px;
+        margin-right: 10px;
+        overflow: hidden
+    }
+@media(min-width: 769px) {
+    ._30ZDQxHBBdeXUyxYFXsMMa {
+        width: 32%;
+        margin-right: 2%;
+    }
+    ._30ZDQxHBBdeXUyxYFXsMMa:nth-child(3n) {
+        margin-right: 0;
+    }
+        }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1YEjrpWHakjaskP3eSCFSs {
+    text-align: center;
+    margin: 30px auto
+}
+@media(min-width: 769px) {
+    ._1YEjrpWHakjaskP3eSCFSs {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        max-width: 500px
+    }
+    }
+._1QL-J7FvbkaneJS9760vXR,
+.aTXIuvsLCa1HP0IIbvQyD {
+    display:inline-block;
+    width: 30px;
+    text-align:right
+}
+@media(min-width: 769px) {
+    ._1QL-J7FvbkaneJS9760vXR,
+.aTXIuvsLCa1HP0IIbvQyD {
+        width: 100px
+    }
+    }
+.aTXIuvsLCa1HP0IIbvQyD {
+    text-align:left;
+}
+.fmlF5-bLQOfBDM2pst_yb {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #333;
+        background: #F5F5F7;
+        border-radius: 4px
+    }
+@media(min-width: 769px) {
+    .fmlF5-bLQOfBDM2pst_yb {
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+        -ms-flex-align: center;
+            align-items: center;
+        width: auto;
+        height: auto;
+        margin-top: 5px;
+        color: #298eb9;
+        background: none;
+        border-radius: 0
+    }
+        }
+.NzQxpQaN4vLtOMJpyb8BZ {
+            display: none
+        }
+@media(min-width: 769px) {
+    .NzQxpQaN4vLtOMJpyb8BZ {
+        display: inline;
+        margin-left: 5px;
+        font-size: 1.4rem
+    }
+            }
+._1obKPTnJFYAW7RWRamBIS5 {
+            display: none
+        }
+@media(min-width: 769px) {
+    ._1obKPTnJFYAW7RWRamBIS5 {
+        display: inline;
+        margin-right: 5px;
+        font-size: 1.4rem
+    }
+            }
+._9B50_ug4IyXeQWuRgCn88 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    width: 30px;
+    height: 30px
+}
+@media(min-width: 769px) {
+    ._9B50_ug4IyXeQWuRgCn88 {
+        width: auto;
+        height: auto
+    }
+    }
+._2D2RYmm5xH8OeBBSam7eXZ {
+}
+@media(min-width: 769px) {
+    ._2D2RYmm5xH8OeBBSam7eXZ {
+        fill: #298eb9
+    }
+    }
+.RZ46YESzIdDEUyK1AEEUQ {
+    display: inline-block;
+    margin: 0 15px
+}
+@media(min-width: 1025px) {
+    .RZ46YESzIdDEUyK1AEEUQ {
+        margin: 0
+    }
+    }
+._3TkvZs_lX4C39ws7PqzpBp {
+    width: 80px;
+    line-height: 40px;
+    display: inline-block;
+    margin: 0 20px;
+    text-align:left;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2V0h9rClDhiM55FuE6haNp {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+._3FFA9NYsuY_ee9OqmVYR95 {
+    position: absolute;
+    top:0;
+    right:0;
+    height: 100%;
+    width: 40px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+}
+.pvX_Faucq1i68JfX6XSZa {
+    fill: #333;
+}
+._3i4XapnWMFnksip7lhJyDE {
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 1.4rem;
+    background: #fff;
+    color: #333;
+    overflow: hidden;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}
+._3i4XapnWMFnksip7lhJyDE:focus {
+    border-color: #12688c;
+}
+._3i4XapnWMFnksip7lhJyDE:placeholder {
+    color: #333;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3z0FgOwtVU3dbrg1BfSfYj {
+    position: relative;
+    margin: -1px 0;
+    background: #ddf1fA
+}
+@media(min-width: 769px) {
+    ._3z0FgOwtVU3dbrg1BfSfYj {}
+    }
+._1pu6F-Nuopr29Ls8JC5uoZ {
+        max-width: 800px;
+        min-height: 50px;
+        margin: 0 auto;
+        padding: 10px 40px 10px 20px;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+            align-items: center;
+        -ms-flex-pack: center;
+            justify-content: center
+    }
+@media(min-width: 769px) {
+    ._1pu6F-Nuopr29Ls8JC5uoZ {}
+        }
+.maLeuRxWGy_HctkcJd89M {
+            margin-right: 10px;
+        }
+.n2n5QI4qWFU-Vq6-MuXh0 {
+                fill: #333
+            }
+@media(min-width: 769px) {
+    .n2n5QI4qWFU-Vq6-MuXh0 {}
+                }
+._1resjijygQ2M88E386oQyy {
+            font-weight: 600;
+            line-height: 2rem;
+            color: #333
+        }
+._1resjijygQ2M88E386oQyy em {
+    color: #298eb9
+}
+._3rad1uRaz0F3uWGr14UiRw {
+        position: absolute;
+        top:15px;
+        right: 20px;
+        padding:0;
+        border:none;
+        background:none;
+        color: #298eb9;
+        cursor: pointer
+    }
+@media(min-width: 769px) {
+    ._3rad1uRaz0F3uWGr14UiRw {
+        top: 10px;
+        right: 10px
+    }
+        }
+@media(min-width: 1025px) {
+    ._3rad1uRaz0F3uWGr14UiRw {
+        top: 15px;
+        right: 20px
+    }
+        }
+._3rad1uRaz0F3uWGr14UiRw:hover,
+        ._3rad1uRaz0F3uWGr14UiRw:focus {
+    cursor: pointer
+}
+._3rad1uRaz0F3uWGr14UiRw:hover svg, ._3rad1uRaz0F3uWGr14UiRw:focus svg {
+    fill: #298eb9
+}
+._3WEXB4kB-RVuY1qSUzV4Vd {
+            fill: #9d9d9d;
+            transition: 125ms fill ease-in;
+        }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2q7vZd42aQFcAGAZMBPh-n {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+            flex-direction: column;
+        margin-bottom: 10px
+    }
+@media (min-width: 769px) {
+    ._2q7vZd42aQFcAGAZMBPh-n {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        -ms-flex-align: center;
+            align-items: center
+    }
+        }
+.bGrVpLYQwfIfIrz7RDoCe {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+            flex-direction: column;
+        padding-bottom:1px;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+        width: 100%;
+        -ms-flex-order: 2;
+            order: 2
+    }
+@media (min-width: 769px) {
+    .bGrVpLYQwfIfIrz7RDoCe {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-order: 1;
+            order: 1
+    }
+        }
+.aDuAfY2jBTLC9ejXwyl_2 {
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-direction: column;
+                flex-direction: column;
+            margin-bottom: 20px
+        }
+@media(min-width: 769px) {
+    .aDuAfY2jBTLC9ejXwyl_2 {
+        -ms-flex-direction: row;
+            flex-direction: row;
+        -ms-flex-align: center;
+            align-items: center;
+        margin-right: 20px;
+        margin-bottom: 0
+    }
+            }
+.aDuAfY2jBTLC9ejXwyl_2:last-child {
+    margin: 0
+}
+._2gdsCDjFeD3tP61UWTg5vB,
+            ._2KZhY8NH4mM5Jok8yWqRc0{
+                margin: 0 0 10px 0
+            }
+@media(min-width: 769px) {
+    ._2gdsCDjFeD3tP61UWTg5vB,
+            ._2KZhY8NH4mM5Jok8yWqRc0 {
+        margin: 0  20px 0 0
+    }
+                }
+._2gdsCDjFeD3tP61UWTg5vB {
+                width: 100%
+            }
+@media(min-width: 769px) {
+    ._2gdsCDjFeD3tP61UWTg5vB {
+        margin: 0 20px 0 0;
+        width: 200px
+    }
+                }
+._2gdsCDjFeD3tP61UWTg5vB:last-child {
+    margin-right: 0
+}
+._2KZhY8NH4mM5Jok8yWqRc0 {
+                font-size: 1.2rem;
+                font-weight: 600;
+                -ms-flex: 0 0 auto;
+                    flex: 0 0 auto;
+                display: inline-block;
+            }
+._3OChd0X3b6u-QeJVE13l1n {
+        height: 35px;
+        margin-bottom: 20px;
+        -ms-flex-order: 1;
+            order: 1
+    }
+@media (min-width: 769px) {
+    ._3OChd0X3b6u-QeJVE13l1n {
+        margin-left: 20px;
+        margin-bottom: 0;
+        -ms-flex: 0 1 220px;
+            flex: 0 1 220px;
+        -ms-flex-order: 2;
+            order: 2
+    }
+        }
+._3kFTbIGGZvHnoyRUyeJGiw,
+._2Ymv22hjPXBy3j0VNIA5OY {
+    min-height: 150px;
+    background: #fff;
+    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    padding: 20px 20px
+}
+@media(min-width: 769px) {
+    ._3kFTbIGGZvHnoyRUyeJGiw,
+._2Ymv22hjPXBy3j0VNIA5OY {
+        padding-right: 40px;
+        padding-left: 40px
+    }
+}
+@media(max-width: 768px) {
+    ._3kFTbIGGZvHnoyRUyeJGiw,
+._2Ymv22hjPXBy3j0VNIA5OY {
+        padding-left: 0;
+        padding-right: 0
+    }
+    }
+._2Ymv22hjPXBy3j0VNIA5OY {
+    position: relative;
+}
+._2Ymv22hjPXBy3j0VNIA5OY:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .3);
+    cursor: wait
+}
+._1akRlUtKjOh1kjPC5eUo2y {
+    padding: 10px 20px 30px 20px;
+    border-bottom: 1px solid #dddddd
+}
+@media (min-width: 769px) {
+    ._1akRlUtKjOh1kjPC5eUo2y {
+        padding: 10px 0 30px 0;
+        padding-right: 0
+    }
+    }
+._2H2RyM_9gwY1f7XWqH3ioG  {
+    display: inline-block;
+    line-height: 2.3rem;
+    font-size: 1.6rem;
+    margin: 20px 0 10px;
+    font-weight: 400;
+    padding: 0 20px
+}
+@media (min-width: 769px) {
+    ._2H2RyM_9gwY1f7XWqH3ioG {
+        padding: 0
+    }
+    }
+._2H2RyM_9gwY1f7XWqH3ioG strong {
+    font-weight: 600;
+    color: #333;
+    padding: 0
+}
+._3eAG-y1drW6JTwnbmTnQa4 {
+    margin: 10px 0;
+}
+._27xD-gsq_g4tVEf36QmSn- {
+    margin:-21px 0 -1px;
+    border-top: 1px solid #9d9d9d;
+    border-bottom: 1px solid #9d9d9d
+}
+@media(min-width: 769px) {
+    ._27xD-gsq_g4tVEf36QmSn- {
+        margin-top: -1px
+    }
+    }
+._31A1X2rQUrzE3IHcxoh4cb {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.8rem;
+    padding: 0 20px
+}
+@media(min-width: 769px) {
+    ._31A1X2rQUrzE3IHcxoh4cb {
+        padding: 0
+    }
+    }
+._1n3e_uc8Hwusg0Cs5MRl3q {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    color: #298eb9;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 5px;
+}
+._1n3e_uc8Hwusg0Cs5MRl3q:hover,
+        ._1n3e_uc8Hwusg0Cs5MRl3q:focus {
+    color: #12688c
+}
+._1QxsKhjnv_djRkK5bxPU8Q,
+._17Rdd2z-gZNJxdd-h3p59d {
+    color: #afafaf;
+    line-height: 2rem;
+}
+._17Rdd2z-gZNJxdd-h3p59d {
+    margin: 30px 20px 20px;
+}
+._1QxsKhjnv_djRkK5bxPU8Q {
+    -ms-flex-order:2;
+        order:2;
+    width: 100%;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._1kxD_t6n18e2NraMZD0l4R {
+    max-width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.VxIb_EGF3n3LnvkfRDjPG,
+._3iPa35J0CSHAIs-CvPhzsG {
+    background: #fff;
+    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
+    padding: 20px 20px;
+}
+@media(min-width: 769px) {
+    .VxIb_EGF3n3LnvkfRDjPG,
+._3iPa35J0CSHAIs-CvPhzsG {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+._3iPa35J0CSHAIs-CvPhzsG {
+    position: relative;
+}
+._3iPa35J0CSHAIs-CvPhzsG:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .3);
+    cursor: wait;
+}
+.aPzuzwJwkxzzaBN6TrBX {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 15px
+}
+@media (min-width: 769px) {
+    .aPzuzwJwkxzzaBN6TrBX {
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    }
+._2c0lDAkpDN0mB8i9C-fLHE {
+    -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+    overflow:hidden;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background: #b1deb5;
+    margin-right: 10px
+}
+@media (min-width: 769px) {
+    ._2c0lDAkpDN0mB8i9C-fLHE {
+        margin-right: 20px;
+    }
+    }
+._2bF5mbT1GDG1AXng1cSavp{
+        width: 35px;
+        margin: 8px;
+        height: 35px
+    }
+._13LVsCyoPlNn2dX5Fbe4Wr {
+    -ms-flex: 1 1 auto;
+        flex: 1 1 auto
+}
+@media (min-width: 769px) {
+    ._13LVsCyoPlNn2dX5Fbe4Wr {
+        font-size: 1.8rem;
+    }
+    }
+._2Ib5PUBo35Pv4THibK7xje {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height:2.8rem;
+    padding: 4px 0
+}
+@media (min-width: 769px) {
+    ._2Ib5PUBo35Pv4THibK7xje {
+        font-size: 2rem;
+        display: inline-block;
+        padding: 0px;
+    }
+    }
+._1i7fF3uBoE84RfJebmiZ4y,
+._2gjILPRCwxoXgmZF6NICPt,
+._18AvqZ9r_fLMWmEO9gMNY4 {
+    line-height: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 20px
+}
+@media (min-width: 769px) {
+    ._1i7fF3uBoE84RfJebmiZ4y,
+._2gjILPRCwxoXgmZF6NICPt,
+._18AvqZ9r_fLMWmEO9gMNY4 {
+        font-size: 1.8rem;
+        line-height: 3.2rem;
+    }
+    }
+.VXv6Se2qev8-rBE5jhWky {
+}
+@media(min-width: 769px) {
+    .VXv6Se2qev8-rBE5jhWky {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+    }
+    }
+.VoHipjUMMDhzs88XLvpO9 {
+}
+@media(min-width: 769px) {
+    .VoHipjUMMDhzs88XLvpO9 {
+        width: 48%;
+        margin-right: 2%;
+    }
+    .VoHipjUMMDhzs88XLvpO9:nth-child(2n) {
+        margin-right: 0;
+    }
+    }
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._842RFSt63mJFCEuFDneab {
+    background:#fff;
+    box-shadow:0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom:10px;
+    padding:20px 20px
+}
+@media(min-width: 769px) {
+    ._842RFSt63mJFCEuFDneab {
+        padding-right:40px;
+        padding-left:40px
+    }
+}
+@media(max-width: 768px) {
+    ._842RFSt63mJFCEuFDneab {
+        padding-left:0;
+        padding-right:0
+    }
+    }
+.JQjgTCLgt5W-Qvii5R2_I {
+    padding:0 20px 20px;
+    border-bottom:1px solid #dddddd
+}
+@media(min-width: 769px) {
+    .JQjgTCLgt5W-Qvii5R2_I {
+        padding-left:0;
+        padding-right:0
+    }
+    }
+._2dhbn0alzDUkMdfrU_znO_ {
+        border:none;
+        background:none;
+        padding:0;
+        margin:0;
+        color:#298eb9;
+        cursor:pointer;
+        text-decoration:none;
+    }
+._2dhbn0alzDUkMdfrU_znO_:hover,
+        ._2dhbn0alzDUkMdfrU_znO_:focus {
+    color:#12688c
+}
+._2pY6WzbM4zE0HufzxeIwhf {
+            position:relative;
+            top: 3px;
+        }
+._3z5WanxkrYBNJGKEHFEuen {
+                fill:#298eb9;
+            }
+._2t3UnOG-h9nTc3oVgHUBE8,
+._1LuprU7LLC2c7NnQpCPqky {
+    background:#fff;
+    box-shadow:0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom:10px
+}
+@media(min-width: 769px) {
+    ._2t3UnOG-h9nTc3oVgHUBE8,
+._1LuprU7LLC2c7NnQpCPqky {
+        padding:0 40px
+    }
+    }
+._1LuprU7LLC2c7NnQpCPqky {
+    position:relative;
+}
+._1LuprU7LLC2c7NnQpCPqky:after {
+    position:absolute;
+    display:block;
+    content:'';
+    width:100%;
+    height:100%;
+    z-index:15;
+    top:0;
+    left:0;
+    background:rgba(255, 255, 255, .3);
+    cursor:wait
+}
+._32FdxF0M1G1lZbA_mRsQmx {
+    font-size:2.4rem;
+    color:#333;
+    font-weight:600;
+    margin-bottom:10px;
+    font-weight:400;
+    font-size:2rem;
+    letter-spacing:0.5px;
+    padding:20px 20px;
+    border-bottom:1px solid #dddddd
+}
+@media(min-width: 769px) {
+    ._32FdxF0M1G1lZbA_mRsQmx {
+        padding-left:0;
+        padding-right:0
+    }
+    }
+._1259n2eSE4QofSfXf8BIkt {
+    border-bottom:1px solid #dddddd;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._3xGqT7wK7oWMTAf5D9Q-yi {
+    max-width: 1024px;
+    margin: 0 auto;
+
+    padding-left: 10px;
+    padding-right: 10px
+}
+@media(min-width: 769px) {
+    ._3xGqT7wK7oWMTAf5D9Q-yi {
+        margin-top: 40px
+    }
+    }
+@media(max-width: 768px) {
+    ._3xGqT7wK7oWMTAf5D9Q-yi {
+        padding-left: 0;
+        padding-right: 0
+    }
+    }
+._12XpY-ROxVG1-Y5B_Nx8Rj {
+    display: block
+}
+@media(min-width: 769px) {
+    ._12XpY-ROxVG1-Y5B_Nx8Rj {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap
+    }
+    }
+._1Vk-tPYrJDc4zVIBCG4dmQ {
+    overflow: hidden
+}
+@media(min-width: 769px) {
+    ._1Vk-tPYrJDc4zVIBCG4dmQ {
+        -ms-flex: 0 1 32%;
+            flex: 0 1 32%;
+        margin-right: 15px
+    }
+    ._1Vk-tPYrJDc4zVIBCG4dmQ:nth-child(3n + 0) {
+        margin-right: 0
+    }
+    }
+@media(max-width: 768px) {
+    ._1Vk-tPYrJDc4zVIBCG4dmQ {
+        max-width: 100%;
+        margin-right: 0
+    }
+    }:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+.xadx04aITenf9WsPd9ns_ {
+    max-width:1024px;
+    margin:0 auto;
+}
+._7SlybKokMc-8rGib_-Pxv {
+    max-width:1024px;
+    margin:0 auto;
+    background:#fff;
+    box-shadow:0px 1px 3px -1px rgba(0, 0, 0, .2);
+    margin-bottom:10px;
+    padding:20px 20px
+}
+@media(min-width: 769px) {
+    ._7SlybKokMc-8rGib_-Pxv {
+        padding-right:40px;
+        padding-left:40px;
+    }
+}
+@media(max-width: 768px) {
+    ._7SlybKokMc-8rGib_-Pxv {
+        padding-left:0;
+        padding-right:0;
+    }
+    }
+._10DiKcU9EnYo4HrAh7A7hZ {
+    padding:0 20px 20px;
+    border-bottom:1px solid #dddddd
+}
+@media(min-width: 769px) {
+    ._10DiKcU9EnYo4HrAh7A7hZ {
+        padding-left:0;
+        padding-right:0;
+    }
+    }
+.t6p5SzVgZbMTDCL8wSlTe {
+    border:none;
+    background:none;
+    padding:0;
+    margin:0;
+    color:#298eb9;
+    cursor:pointer;
+    text-decoration:none;
+}
+.t6p5SzVgZbMTDCL8wSlTe:hover,
+        .t6p5SzVgZbMTDCL8wSlTe:focus {
+    color:#12688c;
+}
+._1hK5qQovra50rUd0V0XrUj {
+    position:relative;
+    top: 3px;
+}
+._2QP5mWXKjB43zst0yDvRK1 {
+    fill:#298eb9;
+}
+._3sJf8PzmQ-kP7Rgew1h22J {
+    padding-top: 0;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2XAF2O3m18TZu4VWgMo4e- {
+    max-width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+._1YWJiRopjOZWXnHe65910z {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    color: #fff;
+    position: relative;
+    min-width: 100%;
+    min-height: 270px;
+    background: url(https://js-prod-react.companyreview.co/dist/b596764f.jpg) top center no-repeat;
+    background-size: cover;
+    height: 150px;
+    margin-bottom: 20px
+}
+@media(min-width: 769px) {
+    ._1YWJiRopjOZWXnHe65910z {
+        height: 220px;
+        margin-bottom: 30px;
+    }
+    }
+._1YWJiRopjOZWXnHe65910z::after {
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+}
+._13RaWVU6oIcd2c6rgTuKIW{
+    position: relative;
+    z-index: 15;
+    padding: 0 20px;
+    font-weight: 600;
+    font-size: 3.6rem;
+    color: #fff;
+}
+._1z8H5oqydJaifw7rEk3zwP{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+@media(min-width: 769px) {
+    ._1z8H5oqydJaifw7rEk3zwP {
+        padding: 0 40px;
+    }
+}
+._2TtuGinyUrprszKRPlhS-g {
+    display: none
+}
+@media(min-width: 769px) {
+    ._2TtuGinyUrprszKRPlhS-g {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+            align-items: center;
+        text-transform: uppercase;
+    }
+    }
+.OCiQ7Zrf7IMWCdQJhD_hz{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+}
+._2BN01wfUjzPHYFIe9SmIzd { text-transform: uppercase; }
+.UxJOHiBt0nVdlhdSzXDTa{
+    vertical-align: -3px;
+}
+._1B6y2_JfaIpd127szhs0UB{
+    height: 20px;
+    width: 20px;
+    margin: 0 5px;
+}
+.nlEoBWJQclbBpAXAA_Srq{
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+    margin-top: -2px;
+}
+._1Y4gJDJQR5Ns3jLj4gyeKs {
+    margin: 30px 0;
+}
+._2l5SB_eziEDqBsoLOOKEqs {
+    display: inline;
+    float: left;
+    padding-right: 20px;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+._3-aCZet02DzpqLuoO3loOs {
+    word-break: break-word;
+}
+.FjlMm6gkT1HvJplcDQ6Dr {
+    text-transform: uppercase;
+    display: inline;
+    padding: 2px 10px 2px 0;
+    font-size: 16px;
+    vertical-align: -2px;
+}
+._3qUmw8POm2M5BqMeNgP-0G{
+    -ms-flex-align: center;
+        align-items: center;
+}
+._1xO_BSG5iUMqceiAI2fgPX{
+    margin-top: 20px;
+}
+.beWqFdYh3ShvYuMcZPa4t{
+    display:inline-block;
+    width: 100%;
+    padding: 14px 15px 8px 0;
+    height: 55px
+}
+@media(min-width: 769px) {
+    .beWqFdYh3ShvYuMcZPa4t {
+        width: 50%;
+    }
+    }
+@media(min-width: 1025px) {
+    .beWqFdYh3ShvYuMcZPa4t {
+        width: 33.3%;
+    }
+    }
+._2hNs6ML6U7YP3X4lbd8sQg,
+._2HBAKAjSisqxYFhlvq5Jxu {
+    display: -webkit-box; /** This is not applying in the class, kong is not sure why **/
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+._2hNs6ML6U7YP3X4lbd8sQg{
+    -webkit-line-clamp: 2;
+    line-height: 1.8rem;
+    float: left;
+    width: 100%;
+}
+._2HBAKAjSisqxYFhlvq5Jxu {
+    -webkit-line-clamp: 1;
+    text-transform: none;
+    text-transform: initial;
+    padding: 1px;
+}
+:root {
+
+    /* from jobsDb, may need to be subbed for other colours */
+
+    /* JobStreet specific colours */
+
+    /* SEEK Asia style guide */
+}
+:root {
+    /*
+    Font sizes
+    */
+
+    /*
+    Font weights
+    */
+}
+:root {
+    /*
+    Rythms
+    */
+
+    /*
+    Breakpoints
+    */
+
+}
+:root {
+
+    /* info icon background colors */
+
+    /* Circle graph color for company overview page*/
+
+    /* SEEK Asia style guide for highlight */
+}
+:root {
+    /*
+    Cross-browser friendly word-break
+    https://css-tricks.com/almanac/properties/w/word-break
+    https://stackoverflow.com/a/10743974/247243
+    */
+}
+:root {
+
+    /*
+        Used on a container with dynamic text inside.
+    */
+}
+._2jOSiRc0yi2NvMfXAsEPTf {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: center;
+        justify-content: center;
+    /* align horizontal */
+    -ms-flex-align: center;
+        align-items: center;
+    /* align vertical */
+    background: url(https://js-prod-react.companyreview.co/dist/fbcbba7f.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    width: inherit;
+    height: 350px;
+    text-align: center;
+    padding: 40px
+}
+@media(min-width: 769px) {
+    ._2jOSiRc0yi2NvMfXAsEPTf {
+        height: 400px
+    }
+    }
+@media(min-width: 1025px) {
+    ._2jOSiRc0yi2NvMfXAsEPTf {
+        height: 670px
+    }
+    }
+._3uR-SkTgKeVyFF3Hmw00oM {
+    font-size: 2.4rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 2.8rem;
+    margin-bottom: 50px;
+}
+.rMGKhGF8PNNMVJYug0vwL {
+    display:block;
+    font-size: 2.4rem;
+    margin-top: 10px;
+}
+._1NgA2S_X-9XP9kdb3b0jgp {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    line-height: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background: #298eb9;
+    border: none;
+    transition: background-color 200ms, transform 200ms cubic-bezier(0.020, 1.505, 0.745, 1.235);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 4px;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    color: #333;
+    background-color: #fff200;
+    font-size: 1.6rem;
+    padding: 10px 20px;
+}
+@media(min-width: 769px) {
+    ._1NgA2S_X-9XP9kdb3b0jgp {
+        font-size: 1.4rem;
+        padding: 6px 20px
+    }
+}
+._1NgA2S_X-9XP9kdb3b0jgp:active {
+    box-shadow: none;
+    outline: none;
+    transform: scale(0.95)
+}
+._1NgA2S_X-9XP9kdb3b0jgp:focus,
+        ._1NgA2S_X-9XP9kdb3b0jgp:hover {
+    color: #fff;
+    background-color: #12688c;
+    text-decoration: none
+}
+._1NgA2S_X-9XP9kdb3b0jgp:focus,
+        ._1NgA2S_X-9XP9kdb3b0jgp:hover,
+        ._1NgA2S_X-9XP9kdb3b0jgp:active {
+    color: #333;
+    background-color: #fff200
+}
+/*# sourceMappingURL=style.2a1e41.css.map*/
